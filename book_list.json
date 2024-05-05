@@ -1,0 +1,3312 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "href": "http://www.sparknotes.com/lit/1984"
+    },
+    {
+        "title": "20,000 Leagues Under the Sea",
+        "author": "Jules Verne",
+        "href": "http://www.sparknotes.com/lit/20000-leagues-under-the-sea"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "author": "Arthur C. Clarke",
+        "href": "http://www.sparknotes.com/lit/2001"
+    },
+    {
+        "title": "The 57 Bus",
+        "author": "Dashka Slater",
+        "href": "http://www.sparknotes.com/lit/57-bus"
+    },
+    {
+        "title": "Absalom, Absalom!",
+        "author": "William Faulkner",
+        "href": "http://www.sparknotes.com/lit/absalom"
+    },
+    {
+        "title": "The Absolutely True Diary of a Part-Time Indian",
+        "author": "Sherman Alexie",
+        "href": "http://www.sparknotes.com/lit/the-absolutely-true-diary-of-a-part-time-indian"
+    },
+    {
+        "title": "An Abundance of Katherines",
+        "author": "John Green",
+        "href": "http://www.sparknotes.com/lit/abundance-of-katherines"
+    },
+    {
+        "title": "Across Five Aprils",
+        "author": "Irene Hunt",
+        "href": "http://www.sparknotes.com/lit/fiveaprils"
+    },
+    {
+        "title": "Adam Bede",
+        "author": "George Eliot",
+        "href": "http://www.sparknotes.com/lit/adambede"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "href": "http://www.sparknotes.com/lit/huckfinn"
+    },
+    {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "href": "http://www.sparknotes.com/lit/tomsawyer"
+    },
+    {
+        "title": "The Aeneid",
+        "author": "Virgil",
+        "href": "http://www.sparknotes.com/lit/aeneid"
+    },
+    {
+        "title": "The Age of Innocence",
+        "author": "Edith Wharton",
+        "href": "http://www.sparknotes.com/lit/ageofinnocence"
+    },
+    {
+        "title": "Alas, Babylon",
+        "author": "Pat Frank",
+        "href": "http://www.sparknotes.com/lit/alas"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "href": "http://www.sparknotes.com/lit/the-alchemist"
+    },
+    {
+        "title": "Alias Grace",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/aliasgrace"
+    },
+    {
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "href": "http://www.sparknotes.com/lit/alice"
+    },
+    {
+        "title": "All American Boys",
+        "author": "Jason Reynolds",
+        "href": "http://www.sparknotes.com/lit/all-american-boys"
+    },
+    {
+        "title": "All But My Life",
+        "author": "Gerda Weissmann Klein",
+        "href": "http://www.sparknotes.com/lit/allbutmylife"
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "author": "Erich Maria Remarque",
+        "href": "http://www.sparknotes.com/lit/allquiet"
+    },
+    {
+        "title": "All the Bright Places",
+        "author": "Jennifer Niven",
+        "href": "http://www.sparknotes.com/lit/all-the-bright-places"
+    },
+    {
+        "title": "All the King's Men",
+        "author": "Robert Penn Warren",
+        "href": "http://www.sparknotes.com/lit/kingsmen"
+    },
+    {
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "href": "http://www.sparknotes.com/lit/all-the-light"
+    },
+    {
+        "title": "All the Pretty Horses",
+        "author": "Cormac McCarthy",
+        "href": "http://www.sparknotes.com/lit/allthepretty"
+    },
+    {
+        "title": "The Ambassadors",
+        "author": "Henry James",
+        "href": "http://www.sparknotes.com/lit/ambassadors"
+    },
+    {
+        "title": "The American",
+        "author": "Henry James",
+        "href": "http://www.sparknotes.com/lit/american"
+    },
+    {
+        "title": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "href": "http://www.sparknotes.com/lit/americanah"
+    },
+    {
+        "title": "Americanized",
+        "author": "Sara Saedi",
+        "href": "http://www.sparknotes.com/lit/americanized"
+    },
+    {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "href": "http://www.sparknotes.com/lit/andthenthere"
+    },
+    {
+        "title": "Angela's Ashes",
+        "author": "Frank McCourt",
+        "href": "http://www.sparknotes.com/lit/angelasashes"
+    },
+    {
+        "title": "Animal Dreams",
+        "author": "Barbara Kingsolver",
+        "href": "http://www.sparknotes.com/lit/animaldreams"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "href": "http://www.sparknotes.com/lit/animalfarm"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "href": "http://www.sparknotes.com/lit/anna"
+    },
+    {
+        "title": "Anne of Green Gables",
+        "author": "L. M. Montgomery",
+        "href": "http://www.sparknotes.com/lit/anneofgreengables"
+    },
+    {
+        "title": "Annie John",
+        "author": "Jamaica Kincaid",
+        "href": "http://www.sparknotes.com/lit/anniejohn"
+    },
+    {
+        "title": "Anthem",
+        "author": "Ayn Rand",
+        "href": "http://www.sparknotes.com/lit/anthem"
+    },
+    {
+        "title": "The Arabian Nights",
+        "author": "Anonymous",
+        "href": "http://www.sparknotes.com/lit/arabian-nights"
+    },
+    {
+        "title": "Arms and the Man",
+        "author": "George Bernard Shaw ",
+        "href": "http://www.sparknotes.com/lit/arms-and-the-man"
+    },
+    {
+        "title": "Around the World in 80 Days",
+        "author": "Jules Verne",
+        "href": "http://www.sparknotes.com/lit/around-the-world-in-80-days"
+    },
+    {
+        "title": "Arrowsmith",
+        "author": "Sinclair Lewis",
+        "href": "http://www.sparknotes.com/lit/arrowsmith"
+    },
+    {
+        "title": "As I Lay Dying",
+        "author": "William Faulkner",
+        "href": "http://www.sparknotes.com/lit/asilay"
+    },
+    {
+        "title": "The Assistant",
+        "author": "Bernard Malamud",
+        "href": "http://www.sparknotes.com/lit/assistant"
+    },
+    {
+        "title": "Atlas Shrugged",
+        "author": "Ayn Rand",
+        "href": "http://www.sparknotes.com/lit/atlasshrugged"
+    },
+    {
+        "title": "Atonement",
+        "author": "Ian McEwan",
+        "href": "http://www.sparknotes.com/lit/atonement"
+    },
+    {
+        "title": "The Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin",
+        "href": "http://www.sparknotes.com/lit/franklinautobio"
+    },
+    {
+        "title": "The Autobiography of Malcolm X",
+        "author": "Malcolm X & Alex Haley",
+        "href": "http://www.sparknotes.com/lit/malcolmx"
+    },
+    {
+        "title": "The Autobiography of Miss Jane Pittman",
+        "author": "Ernest J. Gaines",
+        "href": "http://www.sparknotes.com/lit/missjane"
+    },
+    {
+        "title": "The Awakening",
+        "author": "Kate Chopin",
+        "href": "http://www.sparknotes.com/lit/awakening"
+    },
+    {
+        "title": "Babbitt",
+        "author": "Sinclair Lewis",
+        "href": "http://www.sparknotes.com/lit/babbitt"
+    },
+    {
+        "title": "Band of Brothers",
+        "author": "Stephen E. Ambrose",
+        "href": "http://www.sparknotes.com/lit/band-of-brothers"
+    },
+    {
+        "title": "The Bean Trees",
+        "author": "Barbara Kingsolver",
+        "href": "http://www.sparknotes.com/lit/beantrees"
+    },
+    {
+        "title": "The Beautiful and Damned",
+        "author": "F. Scott Fitzgerald",
+        "href": "http://www.sparknotes.com/lit/beautiful-and-the-damned"
+    },
+    {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "href": "http://www.sparknotes.com/lit/becoming"
+    },
+    {
+        "title": "Bel Canto",
+        "author": "Ann Patchett",
+        "href": "http://www.sparknotes.com/lit/belcanto"
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "href": "http://www.sparknotes.com/lit/belljar"
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "href": "http://www.sparknotes.com/lit/beloved"
+    },
+    {
+        "title": "A Bend in the River",
+        "author": "V.S. Naipaul",
+        "href": "http://www.sparknotes.com/lit/bend-in-the-river"
+    },
+    {
+        "title": "Beowulf",
+        "author": "Anonymous",
+        "href": "http://www.sparknotes.com/lit/beowulf"
+    },
+    {
+        "title": "Between the World and Me",
+        "author": "Ta-Nehisi Coates",
+        "href": "http://www.sparknotes.com/lit/betweentheworld"
+    },
+    {
+        "title": "Bible: The New Testament",
+        "author": "Various",
+        "href": "http://www.sparknotes.com/lit/newtestament"
+    },
+    {
+        "title": "Bible: The Old Testament",
+        "author": "Literature",
+        "href": "http://www.sparknotes.com/lit/oldtestament"
+    },
+    {
+        "title": "Big Fish",
+        "author": "Daniel Wallace",
+        "href": "http://www.sparknotes.com/lit/big-fish"
+    },
+    {
+        "title": "The Big Sleep",
+        "author": "Raymond Chandler",
+        "href": "http://www.sparknotes.com/lit/bigsleep"
+    },
+    {
+        "title": "Billy Budd, Sailor",
+        "author": "Herman Melville",
+        "href": "http://www.sparknotes.com/lit/billybudd"
+    },
+    {
+        "title": "Bird by Bird",
+        "author": "Anne Lamott",
+        "href": "http://www.sparknotes.com/lit/birdbybird"
+    },
+    {
+        "title": "Black Boy",
+        "author": "Richard Wright",
+        "href": "http://www.sparknotes.com/lit/blackboy"
+    },
+    {
+        "title": "Black Like Me",
+        "author": "John Howard Griffin",
+        "href": "http://www.sparknotes.com/lit/blacklikeme"
+    },
+    {
+        "title": "The Black Prince",
+        "author": "Iris Murdoch",
+        "href": "http://www.sparknotes.com/lit/blackprince"
+    },
+    {
+        "title": "Bleak House",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/bleakhouse"
+    },
+    {
+        "title": "Bless Me, Ultima",
+        "author": "Rudolfo A. Anaya",
+        "href": "http://www.sparknotes.com/lit/ultima"
+    },
+    {
+        "title": "Bless the Beasts and Children",
+        "author": "Glendon Swarthout",
+        "href": "http://www.sparknotes.com/lit/beasts"
+    },
+    {
+        "title": "The Blind Assassin",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/blindassassin"
+    },
+    {
+        "title": "Blood Brothers",
+        "author": "Nora Roberts",
+        "href": "http://www.sparknotes.com/lit/blood-brothers"
+    },
+    {
+        "title": "The Bluest Eye",
+        "author": "Toni Morrison",
+        "href": "http://www.sparknotes.com/lit/bluesteye"
+    },
+    {
+        "title": "The Bonesetter’s Daughter",
+        "author": "Amy Tan",
+        "href": "http://www.sparknotes.com/lit/bonesetters-daughter"
+    },
+    {
+        "title": "The Book of Margery Kempe",
+        "author": "Margery Kempe",
+        "href": "http://www.sparknotes.com/lit/margerykempe"
+    },
+    {
+        "title": "The Book of the City of Ladies",
+        "author": "Christine de Pizan",
+        "href": "http://www.sparknotes.com/lit/cityladies"
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "href": "http://www.sparknotes.com/lit/the-book-thief"
+    },
+    {
+        "title": "A Border Passage",
+        "author": "Leila Ahmed",
+        "href": "http://www.sparknotes.com/lit/borderpassage"
+    },
+    {
+        "title": "Born a Crime",
+        "author": "Trevor Noah",
+        "href": "http://www.sparknotes.com/lit/born-a-crime"
+    },
+    {
+        "title": "The Boy in the Striped Pajamas",
+        "author": "John Boyne",
+        "href": "http://www.sparknotes.com/lit/boy-in-striped-pajamas"
+    },
+    {
+        "title": "The Boy Who Harnessed the Wind",
+        "author": "William Kamkwamba",
+        "href": "http://www.sparknotes.com/lit/boy-who-harnessed-the-wind"
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "href": "http://www.sparknotes.com/lit/bravenew"
+    },
+    {
+        "title": "Bread Givers",
+        "author": "Anzia Yezierska",
+        "href": "http://www.sparknotes.com/lit/breadgivers"
+    },
+    {
+        "title": "Breath, Eyes, Memory",
+        "author": "Edwidge Danticat",
+        "href": "http://www.sparknotes.com/lit/breatheyes"
+    },
+    {
+        "title": "Brideshead Revisited",
+        "author": "Evelyn Waugh",
+        "href": "http://www.sparknotes.com/lit/brideshead-revisited"
+    },
+    {
+        "title": "Bridge to Terabithia",
+        "author": "Katherine Paterson",
+        "href": "http://www.sparknotes.com/lit/terabithia"
+    },
+    {
+        "title": "The Brief Wondrous Life of Oscar Wao",
+        "author": "Junot Díaz",
+        "href": "http://www.sparknotes.com/lit/brief-wondrous-life-oscar-wao"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "href": "http://www.sparknotes.com/lit/brothersk"
+    },
+    {
+        "title": "Bud, Not Buddy",
+        "author": "Christopher Paul Curtis",
+        "href": "http://www.sparknotes.com/lit/bud-not-buddy"
+    },
+    {
+        "title": "The Burgess Boys",
+        "author": "Elizabeth Strout ",
+        "href": "http://www.sparknotes.com/lit/the-burgess-boys"
+    },
+    {
+        "title": "The Caine Mutiny",
+        "author": "Herman Wouk",
+        "href": "http://www.sparknotes.com/lit/cainemutiny"
+    },
+    {
+        "title": "The Call of the Wild",
+        "author": "Jack London",
+        "href": "http://www.sparknotes.com/lit/call"
+    },
+    {
+        "title": "Candide",
+        "author": "Voltaire",
+        "href": "http://www.sparknotes.com/lit/candide"
+    },
+    {
+        "title": "Cannery Row",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/canneryrow"
+    },
+    {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "href": "http://www.sparknotes.com/lit/the-canterbury-tales"
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King",
+        "href": "http://www.sparknotes.com/lit/carrie"
+    },
+    {
+        "title": "Cat's Cradle",
+        "author": "Kurt Vonnegut",
+        "href": "http://www.sparknotes.com/lit/catscradle"
+    },
+    {
+        "title": "Cat's Eye",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/catseye"
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "href": "http://www.sparknotes.com/lit/catch22"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "href": "http://www.sparknotes.com/lit/catcher"
+    },
+    {
+        "title": "Catching Fire",
+        "author": "Suzanne Collins",
+        "href": "http://www.sparknotes.com/lit/catching-fire"
+    },
+    {
+        "title": "Ceremony",
+        "author": "Leslie Marmon Silko",
+        "href": "http://www.sparknotes.com/lit/ceremony"
+    },
+    {
+        "title": "Chains",
+        "author": "Laurie Halse Anderson",
+        "href": "http://www.sparknotes.com/lit/chains"
+    },
+    {
+        "title": "Changes: A Love Story",
+        "author": "Ama Ata Aidoo",
+        "href": "http://www.sparknotes.com/lit/changes"
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "author": "Roald Dahl",
+        "href": "http://www.sparknotes.com/lit/charlie"
+    },
+    {
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "href": "http://www.sparknotes.com/lit/charlottes-web"
+    },
+    {
+        "title": "Chekhov Stories",
+        "author": "Anton Chekhov",
+        "href": "http://www.sparknotes.com/lit/chekhov"
+    },
+    {
+        "title": "Child of the Dark",
+        "author": "Carolina Maria de Jesus",
+        "href": "http://www.sparknotes.com/lit/childofthedark"
+    },
+    {
+        "title": "Childhood's End",
+        "author": "Arthur C. Clarke",
+        "href": "http://www.sparknotes.com/lit/childhoodsend"
+    },
+    {
+        "title": "The Chocolate War",
+        "author": "Robert Cormier",
+        "href": "http://www.sparknotes.com/lit/chocolatewar"
+    },
+    {
+        "title": "The Chosen",
+        "author": "Chaim Potok",
+        "href": "http://www.sparknotes.com/lit/chosen"
+    },
+    {
+        "title": "A Christmas Carol",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/christmascarol"
+    },
+    {
+        "title": "Chronicle of a Death Foretold",
+        "author": "Gabriel García Márquez",
+        "href": "http://www.sparknotes.com/lit/chrondeath"
+    },
+    {
+        "title": "Circe",
+        "author": "Madeline Miller",
+        "href": "http://www.sparknotes.com/lit/circe"
+    },
+    {
+        "title": "The Circle",
+        "author": "Dave Eggers",
+        "href": "http://www.sparknotes.com/lit/circle"
+    },
+    {
+        "title": "The City of Ember",
+        "author": "Jeanne DuPrau",
+        "href": "http://www.sparknotes.com/lit/the-city-of-ember"
+    },
+    {
+        "title": "Clarissa",
+        "author": "Samuel Richardson",
+        "href": "http://www.sparknotes.com/lit/clarissa"
+    },
+    {
+        "title": "A Clash of Kings",
+        "author": "George R.R. Martin",
+        "href": "http://www.sparknotes.com/lit/a-clash-of-kings"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "href": "http://www.sparknotes.com/lit/clockworkorange"
+    },
+    {
+        "title": "Cold Mountain",
+        "author": "Charles Frazier",
+        "href": "http://www.sparknotes.com/lit/coldmountain"
+    },
+    {
+        "title": "Cold Sassy Tree",
+        "author": "Olive Anne Burns",
+        "href": "http://www.sparknotes.com/lit/coldsassy"
+    },
+    {
+        "title": "The Color of Water",
+        "author": "James McBride",
+        "href": "http://www.sparknotes.com/lit/colorofwater"
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "href": "http://www.sparknotes.com/lit/purple"
+    },
+    {
+        "title": "Coming of Age in Mississippi",
+        "author": "Anne Moody",
+        "href": "http://www.sparknotes.com/lit/comingofage"
+    },
+    {
+        "title": "Common Sense",
+        "author": "Thomas Paine",
+        "href": "http://www.sparknotes.com/lit/commonsense"
+    },
+    {
+        "title": "Concrete Rose",
+        "author": "Angie Thomas",
+        "href": "http://www.sparknotes.com/lit/concrete-rose"
+    },
+    {
+        "title": "A Connecticut Yankee in King Arthur's Court",
+        "author": "Mark Twain",
+        "href": "http://www.sparknotes.com/lit/yankee"
+    },
+    {
+        "title": "The Contender",
+        "author": "Robert Lipsyte",
+        "href": "http://www.sparknotes.com/lit/contender"
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "href": "http://www.sparknotes.com/lit/montecristo"
+    },
+    {
+        "title": "A Court of Thorns and Roses",
+        "author": "Sarah J. Maas",
+        "href": "http://www.sparknotes.com/lit/a-court-of-thorns-and-roses"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "href": "http://www.sparknotes.com/lit/crime"
+    },
+    {
+        "title": "The Crucible",
+        "author": "Arthur Miller",
+        "href": "http://www.sparknotes.com/lit/crucible"
+    },
+    {
+        "title": "Cry, the Beloved Country",
+        "author": "Alan Paton",
+        "href": "http://www.sparknotes.com/lit/cry"
+    },
+    {
+        "title": "The Crying of Lot 49",
+        "author": "Thomas Pynchon",
+        "href": "http://www.sparknotes.com/lit/lot49"
+    },
+    {
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "author": "Mark Haddon",
+        "href": "http://www.sparknotes.com/lit/the-curious-incident-of-the-dog-in-the-night-time"
+    },
+    {
+        "title": "Cyrano de Bergerac",
+        "author": "Edmond Rostand",
+        "href": "http://www.sparknotes.com/lit/cyrano"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "href": "http://www.sparknotes.com/lit/davincicode"
+    },
+    {
+        "title": "Daisy Miller",
+        "author": "Henry James",
+        "href": "http://www.sparknotes.com/lit/daisy"
+    },
+    {
+        "title": "Dandelion Wine",
+        "author": "Ray Bradbury",
+        "href": "http://www.sparknotes.com/lit/dandelion"
+    },
+    {
+        "title": "Dangerous Liaisons",
+        "author": "Pierre Ambroise Laclos",
+        "href": "http://www.sparknotes.com/lit/dangerous"
+    },
+    {
+        "title": "David and Goliath",
+        "author": "Malcolm Gladwell",
+        "href": "http://www.sparknotes.com/lit/david-and-goliath"
+    },
+    {
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/copperfield"
+    },
+    {
+        "title": "A Day No Pigs Would Die",
+        "author": "Robert Newton Peck",
+        "href": "http://www.sparknotes.com/lit/adaynopigs"
+    },
+    {
+        "title": "The Day of the Locust",
+        "author": "Nathanael West",
+        "href": "http://www.sparknotes.com/lit/locust"
+    },
+    {
+        "title": "Dead Man Walking",
+        "author": "Sister Helen Prejean",
+        "href": "http://www.sparknotes.com/lit/deadmanwalking"
+    },
+    {
+        "title": "A Deadly Education: A Novel",
+        "author": "Naomi Novik",
+        "href": "http://www.sparknotes.com/lit/deadly-education"
+    },
+    {
+        "title": "Dear Martin",
+        "author": "Nic Stone",
+        "href": "http://www.sparknotes.com/lit/dear-martin"
+    },
+    {
+        "title": "Death Be Not Proud",
+        "author": "John Gunther",
+        "href": "http://www.sparknotes.com/lit/deathbenot"
+    },
+    {
+        "title": "A Death in the Family",
+        "author": "James Agee",
+        "href": "http://www.sparknotes.com/lit/deathinthefamily"
+    },
+    {
+        "title": "Death in Venice",
+        "author": "Thomas Mann",
+        "href": "http://www.sparknotes.com/lit/venice"
+    },
+    {
+        "title": "Death of a Salesman",
+        "author": "Arthur Miller",
+        "href": "http://www.sparknotes.com/lit/salesman"
+    },
+    {
+        "title": "The Death of Ivan Ilych",
+        "author": "Leo Tolstoy",
+        "href": "http://www.sparknotes.com/lit/ivanilych"
+    },
+    {
+        "title": "The Decameron",
+        "author": "Giovanni Boccaccio",
+        "href": "http://www.sparknotes.com/lit/the-decameron"
+    },
+    {
+        "title": "Demian",
+        "author": "Hermann Hesse",
+        "href": "http://www.sparknotes.com/lit/demian"
+    },
+    {
+        "title": "The Devil in the White City",
+        "author": "Erik Larson",
+        "href": "http://www.sparknotes.com/lit/the-devil-in-the-white-city"
+    },
+    {
+        "title": "Diary of a Wimpy Kid",
+        "author": "Jeff Kinney",
+        "href": "http://www.sparknotes.com/lit/diary-of-a-wimpy-kid"
+    },
+    {
+        "title": "The Diary of Anne Frank",
+        "author": "Anne Frank",
+        "href": "http://www.sparknotes.com/lit/annefrank"
+    },
+    {
+        "title": "Dicey's Song",
+        "author": "Cynthia Voigt",
+        "href": "http://www.sparknotes.com/lit/diceyssong"
+    },
+    {
+        "title": "Disgrace",
+        "author": "J.M. Coetzee",
+        "href": "http://www.sparknotes.com/lit/disgrace"
+    },
+    {
+        "title": "Distant View of a Minaret",
+        "author": "Alifa Rifaat",
+        "href": "http://www.sparknotes.com/lit/distantview"
+    },
+    {
+        "title": "Divergent",
+        "author": "Veronica Roth",
+        "href": "http://www.sparknotes.com/lit/divergent"
+    },
+    {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "href": "http://www.sparknotes.com/lit/do-androids-dream-of-electric-sheep"
+    },
+    {
+        "title": "Doctor Faustus",
+        "author": "Christopher Marlowe",
+        "href": "http://www.sparknotes.com/lit/doctorfaustus"
+    },
+    {
+        "title": "A Doll's House",
+        "author": "Henrik Ibsen",
+        "href": "http://www.sparknotes.com/lit/dollhouse"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "href": "http://www.sparknotes.com/lit/donquixote"
+    },
+    {
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "href": "http://www.sparknotes.com/lit/jekyll"
+    },
+    {
+        "title": "Dr. Zhivago",
+        "author": "Boris Pasternak",
+        "href": "http://www.sparknotes.com/lit/zhivago"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "href": "http://www.sparknotes.com/lit/dracula"
+    },
+    {
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "href": "http://www.sparknotes.com/lit/dubliners"
+    },
+    {
+        "title": "The Duke and I",
+        "author": "Julia Quinn",
+        "href": "http://www.sparknotes.com/lit/duke-and-i"
+    },
+    {
+        "title": "DummyTitle",
+        "author": "",
+        "href": "http://www.sparknotes.com/lit//dummy5"
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "href": "http://www.sparknotes.com/lit/dune"
+    },
+    {
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/eastofeden"
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "href": "http://www.sparknotes.com/lit/educated"
+    },
+    {
+        "title": "Eleanor & Park",
+        "author": "Rainbow Rowell",
+        "href": "http://www.sparknotes.com/lit/eleanor-and-park"
+    },
+    {
+        "title": "The Elegant Universe",
+        "author": "Brian Greene",
+        "href": "http://www.sparknotes.com/lit/elegantuniverse"
+    },
+    {
+        "title": "Ellen Foster",
+        "author": "Kaye Gibbons",
+        "href": "http://www.sparknotes.com/lit/ellenfoster"
+    },
+    {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "href": "http://www.sparknotes.com/lit/emma"
+    },
+    {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "href": "http://www.sparknotes.com/lit/endersgame"
+    },
+    {
+        "title": "An Enemy of the People",
+        "author": "Henrik Ibsen",
+        "href": "http://www.sparknotes.com/lit/enemyofthepeople"
+    },
+    {
+        "title": "The English Patient",
+        "author": "Michael Ondaatje",
+        "href": "http://www.sparknotes.com/lit/englishpatient"
+    },
+    {
+        "title": "The Epic of Gilgamesh",
+        "author": "Literature",
+        "href": "http://www.sparknotes.com/lit/gilgamesh"
+    },
+    {
+        "title": "Esperanza Rising",
+        "author": "Pam Muñoz Ryan",
+        "href": "http://www.sparknotes.com/lit/esperanza-rising"
+    },
+    {
+        "title": "Ethan Frome",
+        "author": "Edith Wharton",
+        "href": "http://www.sparknotes.com/lit/frome"
+    },
+    {
+        "title": "Everyman",
+        "author": "Philip Roth",
+        "href": "http://www.sparknotes.com/lit/everyman"
+    },
+    {
+        "title": "Everything I Never Told You",
+        "author": "Celeste Ng",
+        "href": "http://www.sparknotes.com/lit/everything-i-never-told-you"
+    },
+    {
+        "title": "Everything, Everything",
+        "author": "Nicola Yoon",
+        "href": "http://www.sparknotes.com/lit/everything-everything"
+    },
+    {
+        "title": "Exit West",
+        "author": "Mohsin Hamid",
+        "href": "http://www.sparknotes.com/lit/exit-west"
+    },
+    {
+        "title": "Exodus",
+        "author": "Leon Uris",
+        "href": "http://www.sparknotes.com/lit/exodus"
+    },
+    {
+        "title": "Extremely Loud and Incredibly Close",
+        "author": "Jonathan Safran Foer",
+        "href": "http://www.sparknotes.com/lit/extremelyloud"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "href": "http://www.sparknotes.com/lit/451"
+    },
+    {
+        "title": "Fallen Angels",
+        "author": "Walter Dean Myers",
+        "href": "http://www.sparknotes.com/lit/fallenangels"
+    },
+    {
+        "title": "Far From the Madding Crowd",
+        "author": "Thomas Hardy",
+        "href": "http://www.sparknotes.com/lit/maddingcrowd"
+    },
+    {
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "href": "http://www.sparknotes.com/lit/farewell"
+    },
+    {
+        "title": "Farewell to Manzanar",
+        "author": "Jeanne Wakatsuki Houston",
+        "href": "http://www.sparknotes.com/lit/manzanar"
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "href": "http://www.sparknotes.com/lit/the-fault-in-our-stars"
+    },
+    {
+        "title": "feed",
+        "author": "M.T. Anderson",
+        "href": "http://www.sparknotes.com/lit/feed"
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "author": "J. R. R. Tolkien",
+        "href": "http://www.sparknotes.com/lit/fellowship"
+    },
+    {
+        "title": "Fever 1793",
+        "author": "Laurie Halse Anderson",
+        "href": "http://www.sparknotes.com/lit/fever"
+    },
+    {
+        "title": "First They Killed My Father",
+        "author": "Loung Ung",
+        "href": "http://www.sparknotes.com/lit/first-they-killed-my-father"
+    },
+    {
+        "title": "Five Feet Apart",
+        "author": "Rachael Lippincott",
+        "href": "http://www.sparknotes.com/lit/five-feet-apart"
+    },
+    {
+        "title": "Flowers for Algernon",
+        "author": "Daniel Keyes",
+        "href": "http://www.sparknotes.com/lit/algernon"
+    },
+    {
+        "title": "For Whom The Bell Tolls",
+        "author": "Ernest Hemingway",
+        "href": "http://www.sparknotes.com/lit/belltolls"
+    },
+    {
+        "title": "Forever",
+        "author": "Judy Blume",
+        "href": "http://www.sparknotes.com/lit/forever"
+    },
+    {
+        "title": "The Fountainhead",
+        "author": "Ayn Rand",
+        "href": "http://www.sparknotes.com/lit/fountainhead"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "href": "http://www.sparknotes.com/lit/frankenstein"
+    },
+    {
+        "title": "Franny and Zooey",
+        "author": "J. D. Salinger",
+        "href": "http://www.sparknotes.com/lit/franny"
+    },
+    {
+        "title": "Freak the Mighty",
+        "author": "Rodman Philbrick",
+        "href": "http://www.sparknotes.com/lit/freak-the-mighty"
+    },
+    {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "href": "http://www.sparknotes.com/lit/a-game-of-thrones"
+    },
+    {
+        "title": "A Gathering of Old Men",
+        "author": "Ernest J. Gaines",
+        "href": "http://www.sparknotes.com/lit/gatheringofoldmen"
+    },
+    {
+        "title": "A Gentleman in Moscow",
+        "author": "Amor Towles",
+        "href": "http://www.sparknotes.com/lit/gentleman-in-moscow"
+    },
+    {
+        "title": "A Gesture Life",
+        "author": "Chang-rae Lee",
+        "href": "http://www.sparknotes.com/lit/gesture-life"
+    },
+    {
+        "title": "Ghosts",
+        "author": "Henrik Ibsen",
+        "href": "http://www.sparknotes.com/lit/ghosts"
+    },
+    {
+        "title": "Giants in the Earth",
+        "author": "O.E. Rölvaag",
+        "href": "http://www.sparknotes.com/lit/giants"
+    },
+    {
+        "title": "The Gilded Six-Bits",
+        "author": "Zora Neale Hurston",
+        "href": "http://www.sparknotes.com/lit/the-gilded-six-bits"
+    },
+    {
+        "title": "Giovanni's Room",
+        "author": "James Baldwin",
+        "href": "http://www.sparknotes.com/lit/giovannis-room"
+    },
+    {
+        "title": "The Girl With the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "href": "http://www.sparknotes.com/lit/the-girl-with-the-dragon-tattoo"
+    },
+    {
+        "title": "Girl, Interrupted",
+        "author": "Susanna Kaysen",
+        "href": "http://www.sparknotes.com/lit/girlinterrupted"
+    },
+    {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "href": "http://www.sparknotes.com/lit/giver"
+    },
+    {
+        "title": "The Glass Castle",
+        "author": "Jeannette Walls",
+        "href": "http://www.sparknotes.com/lit/glasscastle"
+    },
+    {
+        "title": "The Glass Menagerie",
+        "author": "Tennessee Williams",
+        "href": "http://www.sparknotes.com/lit/menagerie"
+    },
+    {
+        "title": "Go Ask Alice",
+        "author": "Anonymous",
+        "href": "http://www.sparknotes.com/lit/goaskalice"
+    },
+    {
+        "title": "Go Down, Moses",
+        "author": "William Faulkner",
+        "href": "http://www.sparknotes.com/lit/moses"
+    },
+    {
+        "title": "Go Set a Watchman",
+        "author": "Harper Lee",
+        "href": "http://www.sparknotes.com/lit/go-set-a-watchman"
+    },
+    {
+        "title": "Go Tell It on the Mountain",
+        "author": "James Baldwin",
+        "href": "http://www.sparknotes.com/lit/gotellit"
+    },
+    {
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "href": "http://www.sparknotes.com/lit/the-god-of-small-things"
+    },
+    {
+        "title": "The Goldfinch",
+        "author": "Donna Tartt",
+        "href": "http://www.sparknotes.com/lit/the-goldfinch"
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "href": "http://www.sparknotes.com/lit/gonewith"
+    },
+    {
+        "title": "The Good Earth",
+        "author": "Pearl S. Buck",
+        "href": "http://www.sparknotes.com/lit/goodearth"
+    },
+    {
+        "title": "The Good Soldier",
+        "author": "Ford Madox Ford",
+        "href": "http://www.sparknotes.com/lit/goodsoldier"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/grapesofwrath"
+    },
+    {
+        "title": "The Graveyard Book",
+        "author": "Neil Gaiman",
+        "href": "http://www.sparknotes.com/lit/the-graveyard-book"
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/greatex"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "href": "http://www.sparknotes.com/lit/gatsby"
+    },
+    {
+        "title": "Grendel",
+        "author": "John Gardner",
+        "href": "http://www.sparknotes.com/lit/grendel"
+    },
+    {
+        "title": "Gulliver’s Travels",
+        "author": "Jonathan Swift",
+        "href": "http://www.sparknotes.com/lit/gulliver"
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/handmaid"
+    },
+    {
+        "title": "Hard Times",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/hardtimes"
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/potter2"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/potter7"
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/potter4"
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/potter6"
+    },
+    {
+        "title": "Harry Potter and The Order of the Phoenix",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/harrypotter5"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/potter3"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J. K. Rowling",
+        "href": "http://www.sparknotes.com/lit/harrypotter"
+    },
+    {
+        "title": "Hatchet",
+        "author": "Gary Paulsen",
+        "href": "http://www.sparknotes.com/lit/hatchet"
+    },
+    {
+        "title": "The Hate U Give",
+        "author": "Angie Thomas",
+        "href": "http://www.sparknotes.com/lit/the-hate-u-give"
+    },
+    {
+        "title": "The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "href": "http://www.sparknotes.com/lit/haunting-of-hill-house"
+    },
+    {
+        "title": "Having Our Say",
+        "author": "Sarah Louise Delany and Annie Elizabeth Delany, with Amy Hill Hearth",
+        "href": "http://www.sparknotes.com/lit/havingoursay"
+    },
+    {
+        "title": "The Heart Is a Lonely Hunter",
+        "author": "Carson McCullers",
+        "href": "http://www.sparknotes.com/lit/lonelyhunter"
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "href": "http://www.sparknotes.com/lit/heart-of-darkness"
+    },
+    {
+        "title": "Hedda Gabler",
+        "author": "Henrik Ibsen",
+        "href": "http://www.sparknotes.com/lit/heddagabler"
+    },
+    {
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "href": "http://www.sparknotes.com/lit/the-help"
+    },
+    {
+        "title": "Herland",
+        "author": "Charlotte Perkins Gilman",
+        "href": "http://www.sparknotes.com/lit/herland"
+    },
+    {
+        "title": "Herzog",
+        "author": "Saul Bellow",
+        "href": "http://www.sparknotes.com/lit/herzog"
+    },
+    {
+        "title": "Hidden Figures",
+        "author": "Margot Lee Shetterly",
+        "href": "http://www.sparknotes.com/lit/hidden-figures"
+    },
+    {
+        "title": "The Hiding Place",
+        "author": "Corrie ten Boom",
+        "href": "http://www.sparknotes.com/lit/hiding-place"
+    },
+    {
+        "title": "Hillbilly Elegy",
+        "author": "J.D. Vance",
+        "href": "http://www.sparknotes.com/lit/hillbilly-elegy"
+    },
+    {
+        "title": "Hiroshima",
+        "author": "John Hersey",
+        "href": "http://www.sparknotes.com/lit/hiroshima"
+    },
+    {
+        "title": "His Dark Materials",
+        "author": "Philip Pullman",
+        "href": "http://www.sparknotes.com/lit/hisdarkmaterials"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "href": "http://www.sparknotes.com/lit/hitchhikers-guide-to-the-galaxy"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "href": "http://www.sparknotes.com/lit/hobbit"
+    },
+    {
+        "title": "Holes",
+        "author": "Louis Sachar",
+        "href": "http://www.sparknotes.com/lit/holes"
+    },
+    {
+        "title": "Home",
+        "author": "Marilynne Robinson",
+        "href": "http://www.sparknotes.com/lit/home"
+    },
+    {
+        "title": "Homecoming",
+        "author": "Cynthia Voigt",
+        "href": "http://www.sparknotes.com/lit/homecoming"
+    },
+    {
+        "title": "Homegoing",
+        "author": "Yaa Gyasi",
+        "href": "http://www.sparknotes.com/lit/homegoing"
+    },
+    {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "href": "http://www.sparknotes.com/lit/hound"
+    },
+    {
+        "title": "The Hours",
+        "author": "Michael Cunningham",
+        "href": "http://www.sparknotes.com/lit/hours"
+    },
+    {
+        "title": "House Made of Dawn",
+        "author": "N. Scott Momaday",
+        "href": "http://www.sparknotes.com/lit/housedawn"
+    },
+    {
+        "title": "The House of Mirth",
+        "author": "Edith Wharton",
+        "href": "http://www.sparknotes.com/lit/mirth"
+    },
+    {
+        "title": "The House of the Seven Gables",
+        "author": "Nathaniel Hawthorne",
+        "href": "http://www.sparknotes.com/lit/sevengables"
+    },
+    {
+        "title": "The House of the Spirits",
+        "author": "Isabel Allende",
+        "href": "http://www.sparknotes.com/lit/houseofspirits"
+    },
+    {
+        "title": "The House on Mango Street",
+        "author": "Sandra Cisneros",
+        "href": "http://www.sparknotes.com/lit/mangostreet"
+    },
+    {
+        "title": "How the Garcia Girls Lost Their Accents",
+        "author": "Julia Alvarez",
+        "href": "http://www.sparknotes.com/lit/garciagirls"
+    },
+    {
+        "title": "How to Read Literature Like a Professor: A Lively and Entertaining Guide to Reading Between the Lines",
+        "author": "Thomas C. Foster",
+        "href": "http://www.sparknotes.com/lit/how-to-read-literature-like-a-professor"
+    },
+    {
+        "title": "Howards End",
+        "author": "E. M. Forster",
+        "href": "http://www.sparknotes.com/lit/howardsend"
+    },
+    {
+        "title": "The Hummingbird’s Daughter",
+        "author": "Luis Alberto Urrea",
+        "href": "http://www.sparknotes.com/lit/the-hummingbirds-daughter"
+    },
+    {
+        "title": "The Hunchback of Notre Dame",
+        "author": "Victor Hugo",
+        "href": "http://www.sparknotes.com/lit/hunchback"
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "href": "http://www.sparknotes.com/lit/the-hunger-games"
+    },
+    {
+        "title": "I Am Malala",
+        "author": "Malala Yousafzai",
+        "href": "http://www.sparknotes.com/lit/i-am-malala"
+    },
+    {
+        "title": "I Am the Cheese",
+        "author": "Robert Cormier",
+        "href": "http://www.sparknotes.com/lit/cheese"
+    },
+    {
+        "title": "I Am the Messenger",
+        "author": "Markus Zusak",
+        "href": "http://www.sparknotes.com/lit/i-am-the-messenger"
+    },
+    {
+        "title": "I Know Why the Caged Bird Sings",
+        "author": "Maya Angelou",
+        "href": "http://www.sparknotes.com/lit/cagedbird"
+    },
+    {
+        "title": "I Never Promised You a Rose Garden",
+        "author": "Joanne Greenberg",
+        "href": "http://www.sparknotes.com/lit/rosegarden"
+    },
+    {
+        "title": "I, Rigoberta Menchú",
+        "author": "Rigoberta Menchú",
+        "href": "http://www.sparknotes.com/lit/irigoberta"
+    },
+    {
+        "title": "The Idiot",
+        "author": "Fyodor Dostoyevsky",
+        "href": "http://www.sparknotes.com/lit/idiot"
+    },
+    {
+        "title": "If We Were Villains",
+        "author": "M.L. Rio",
+        "href": "http://www.sparknotes.com/lit/if-we-were-villains"
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "href": "http://www.sparknotes.com/lit/iliad"
+    },
+    {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "href": "http://www.sparknotes.com/lit/immortal-life"
+    },
+    {
+        "title": "The Importance of Being Earnest",
+        "author": "Oscar Wilde",
+        "href": "http://www.sparknotes.com/lit/earnest"
+    },
+    {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "href": "http://www.sparknotes.com/lit/incoldblood"
+    },
+    {
+        "title": "In Our Time",
+        "author": "Ernest Hemingway",
+        "href": "http://www.sparknotes.com/lit/inourtime"
+    },
+    {
+        "title": "In the Lake of the Woods",
+        "author": "Tim O'Brien",
+        "href": "http://www.sparknotes.com/lit/lake-of-the-woods"
+    },
+    {
+        "title": "In the Time of The Butterflies",
+        "author": "Julia Alvarez",
+        "href": "http://www.sparknotes.com/lit/in-the-time-of-butterflies"
+    },
+    {
+        "title": "Incidents in the Life of a Slave Girl",
+        "author": "Harriet Jacobs",
+        "href": "http://www.sparknotes.com/lit/incidents"
+    },
+    {
+        "title": "Indian Horse",
+        "author": "Richard Wagamese",
+        "href": "http://www.sparknotes.com/lit/indian-horse"
+    },
+    {
+        "title": "Into the Wild",
+        "author": "Jon Krakauer",
+        "href": "http://www.sparknotes.com/lit/into-the-wild"
+    },
+    {
+        "title": "Into Thin Air",
+        "author": "Jon Krakauer",
+        "href": "http://www.sparknotes.com/lit/thinair"
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "href": "http://www.sparknotes.com/lit/invisibleman"
+    },
+    {
+        "title": "Iola Leroy",
+        "author": "Frances Harper",
+        "href": "http://www.sparknotes.com/lit/iolaleroy"
+    },
+    {
+        "title": "The Island of Dr. Moreau",
+        "author": "H.G. Wells",
+        "href": "http://www.sparknotes.com/lit/dr-moreau"
+    },
+    {
+        "title": "Island of the Blue Dolphins",
+        "author": "Scott O'Dell",
+        "href": "http://www.sparknotes.com/lit/dolphins"
+    },
+    {
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "href": "http://www.sparknotes.com/lit/it-ends-with-us"
+    },
+    {
+        "title": "It Starts With Us",
+        "author": "Colleen Hoover",
+        "href": "http://www.sparknotes.com/lit/it-starts-with-us"
+    },
+    {
+        "title": "Ivanhoe",
+        "author": "Sir Walter Scott",
+        "href": "http://www.sparknotes.com/lit/ivanhoe"
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "href": "http://www.sparknotes.com/lit/janeeyre"
+    },
+    {
+        "title": "Jazz",
+        "author": "Toni Morrison",
+        "href": "http://www.sparknotes.com/lit/jazz"
+    },
+    {
+        "title": "Johnny Got His Gun",
+        "author": "Dalton Trumbo",
+        "href": "http://www.sparknotes.com/lit/johnnygun"
+    },
+    {
+        "title": "Johnny Tremain",
+        "author": "Esther Forbes",
+        "href": "http://www.sparknotes.com/lit/johnnytremain"
+    },
+    {
+        "title": "Journey into the Whirlwind",
+        "author": "Eugenia Ginzburg",
+        "href": "http://www.sparknotes.com/lit/whirlwind"
+    },
+    {
+        "title": "The Joy Luck Club",
+        "author": "Amy Tan",
+        "href": "http://www.sparknotes.com/lit/joyluck"
+    },
+    {
+        "title": "The Joys of Motherhood",
+        "author": "Buchi Emecheta",
+        "href": "http://www.sparknotes.com/lit/joysofmotherhood"
+    },
+    {
+        "title": "Jude the Obscure",
+        "author": "Thomas Hardy",
+        "href": "http://www.sparknotes.com/lit/jude"
+    },
+    {
+        "title": "The Jungle",
+        "author": "Upton Sinclair",
+        "href": "http://www.sparknotes.com/lit/jungle"
+    },
+    {
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "href": "http://www.sparknotes.com/lit/jurassicpark"
+    },
+    {
+        "title": "Just Mercy",
+        "author": "Bryan Stevenson",
+        "href": "http://www.sparknotes.com/lit/just-mercy"
+    },
+    {
+        "title": "Kidnapped",
+        "author": "Robert Louis Stevenson",
+        "href": "http://www.sparknotes.com/lit/kidnapped"
+    },
+    {
+        "title": "The Killer Angels",
+        "author": "Michael Shaara",
+        "href": "http://www.sparknotes.com/lit/killerangels"
+    },
+    {
+        "title": "Kindred",
+        "author": "Octavia Butler",
+        "href": "http://www.sparknotes.com/lit/kindred"
+    },
+    {
+        "title": "The King Must Die",
+        "author": "Mary Renault",
+        "href": "http://www.sparknotes.com/lit/kingmustdie"
+    },
+    {
+        "title": "The Kitchen God's Wife",
+        "author": "Amy Tan",
+        "href": "http://www.sparknotes.com/lit/kitchengods"
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "href": "http://www.sparknotes.com/lit/the-kite-runner"
+    },
+    {
+        "title": "Krik? Krak!",
+        "author": "Edwidge Danticat",
+        "href": "http://www.sparknotes.com/lit/krikkrak"
+    },
+    {
+        "title": "La Celestina",
+        "author": "Fernando de Rojas",
+        "href": "http://www.sparknotes.com/lit/la-celestina"
+    },
+    {
+        "title": "Lady Chatterley's Lover",
+        "author": "D.H. Lawrence",
+        "href": "http://www.sparknotes.com/lit/ladychatterley"
+    },
+    {
+        "title": "Lamb to the Slaughter",
+        "author": "Roald Dahl",
+        "href": "http://www.sparknotes.com/lit/lamb-to-the-slaughter"
+    },
+    {
+        "title": "The Land",
+        "author": "Mildred D. Taylor",
+        "href": "http://www.sparknotes.com/lit/land"
+    },
+    {
+        "title": "The Last of the Mohicans",
+        "author": "James Fenimore Cooper",
+        "href": "http://www.sparknotes.com/lit/mohicans"
+    },
+    {
+        "title": "The Last Wish",
+        "author": "Andrzej Sapkowski'",
+        "href": "http://www.sparknotes.com/lit/the-last-wish"
+    },
+    {
+        "title": "Legend",
+        "author": "Marie Lu",
+        "href": "http://www.sparknotes.com/lit/legend"
+    },
+    {
+        "title": "Legs",
+        "author": "William Kennedy",
+        "href": "http://www.sparknotes.com/lit/legs"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "href": "http://www.sparknotes.com/lit/lesmis"
+    },
+    {
+        "title": "A Lesson Before Dying",
+        "author": "Ernest J. Gaines",
+        "href": "http://www.sparknotes.com/lit/lessonbefore"
+    },
+    {
+        "title": "Letter from Birmingham Jail",
+        "author": "Martin Luther King, Jr",
+        "href": "http://www.sparknotes.com/lit/letter-from-birmingham-jail"
+    },
+    {
+        "title": "Lieutenant Nun",
+        "author": "Catalina de Erauso",
+        "href": "http://www.sparknotes.com/lit/lieutenantnun"
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "href": "http://www.sparknotes.com/lit/lifeofpi"
+    },
+    {
+        "title": "Light in August",
+        "author": "William Faulkner",
+        "href": "http://www.sparknotes.com/lit/lightinaugust"
+    },
+    {
+        "title": "The Light in the Forest",
+        "author": "Conrad Richter",
+        "href": "http://www.sparknotes.com/lit/lightforest"
+    },
+    {
+        "title": "The Lightning Thief",
+        "author": "Rick Riordan",
+        "href": "http://www.sparknotes.com/lit/lightning-thief"
+    },
+    {
+        "title": "Like Water for Chocolate",
+        "author": "Laura Esquivel",
+        "href": "http://www.sparknotes.com/lit/likewater"
+    },
+    {
+        "title": "Linden Hills",
+        "author": "Gloria Naylor",
+        "href": "http://www.sparknotes.com/lit/linden-hills"
+    },
+    {
+        "title": "The Lion, The Witch, and The Wardrobe",
+        "author": "C.S. Lewis ",
+        "href": "http://www.sparknotes.com/lit/lion"
+    },
+    {
+        "title": "Little Fires Everywhere",
+        "author": "Celeste Ng",
+        "href": "http://www.sparknotes.com/lit/little-fires-everywhere"
+    },
+    {
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "href": "http://www.sparknotes.com/lit/a-little-life"
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "href": "http://www.sparknotes.com/lit/littleprince"
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "href": "http://www.sparknotes.com/lit/littlewomen"
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "href": "http://www.sparknotes.com/lit/lolita"
+    },
+    {
+        "title": "The Lonely Londoners",
+        "author": "Sam Selvon",
+        "href": "http://www.sparknotes.com/lit/lonely-londoners"
+    },
+    {
+        "title": "Long Day's Journey into Night",
+        "author": "Eugene O'Neill",
+        "href": "http://www.sparknotes.com/lit/longdays"
+    },
+    {
+        "title": "A Long Walk to Water",
+        "author": "Linda Sue Park",
+        "href": "http://www.sparknotes.com/lit/long-walk-to-water"
+    },
+    {
+        "title": "Long Way Down",
+        "author": "Jason Reynolds",
+        "href": "http://www.sparknotes.com/lit/long-way-down"
+    },
+    {
+        "title": "A Long Way Gone",
+        "author": "Ismael Beah",
+        "href": "http://www.sparknotes.com/lit/long-way-gone"
+    },
+    {
+        "title": "Looking Backward",
+        "author": "Edward Bellamy",
+        "href": "http://www.sparknotes.com/lit/lookingbackward"
+    },
+    {
+        "title": "Looking for Alaska",
+        "author": "John Green",
+        "href": "http://www.sparknotes.com/lit/looking-for-alaska"
+    },
+    {
+        "title": "Lord Jim",
+        "author": "Joseph Conrad",
+        "href": "http://www.sparknotes.com/lit/lordjim"
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "href": "http://www.sparknotes.com/lit/flies"
+    },
+    {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "href": "http://www.sparknotes.com/lit/cholera"
+    },
+    {
+        "title": "Love Medicine",
+        "author": "Louise Erdrich",
+        "href": "http://www.sparknotes.com/lit/love-medicine"
+    },
+    {
+        "title": "Lucky Jim",
+        "author": "Kingsley Amis",
+        "href": "http://www.sparknotes.com/lit/luckyjim"
+    },
+    {
+        "title": "Lucy: A Novel",
+        "author": "Jamaica Kincaid",
+        "href": "http://www.sparknotes.com/lit/lucy"
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "href": "http://www.sparknotes.com/lit/bovary"
+    },
+    {
+        "title": "Maggie: A Girl of the Streets",
+        "author": "Stephen Crane",
+        "href": "http://www.sparknotes.com/lit/maggie"
+    },
+    {
+        "title": "Main Street",
+        "author": "Sinclair Lewis",
+        "href": "http://www.sparknotes.com/lit/mainstreet"
+    },
+    {
+        "title": "Mama Day",
+        "author": "Gloria Naylor",
+        "href": "http://www.sparknotes.com/lit/mama-day"
+    },
+    {
+        "title": "The Mambo Kings Play Songs of Love",
+        "author": "Oscar Hijuelos",
+        "href": "http://www.sparknotes.com/lit/mambo-kings-play-songs-of-love"
+    },
+    {
+        "title": "A Man for All Seasons",
+        "author": "Robert Bolt",
+        "href": "http://www.sparknotes.com/lit/amanforallseasons"
+    },
+    {
+        "title": "The Man in the High Castle",
+        "author": "Philip K. Dick",
+        "href": "http://www.sparknotes.com/lit/the-man-in-the-high-castle"
+    },
+    {
+        "title": "Manhattan Transfer",
+        "author": "John Dos Passos",
+        "href": "http://www.sparknotes.com/lit/manhattan-transfer"
+    },
+    {
+        "title": "Mansfield Park",
+        "author": "Jane Austen",
+        "href": "http://www.sparknotes.com/lit/mansfieldpark"
+    },
+    {
+        "title": "The Martian Chronicles",
+        "author": "Ray Bradbury",
+        "href": "http://www.sparknotes.com/lit/martianchronicles"
+    },
+    {
+        "title": "Matilda",
+        "author": "Roald Dahl",
+        "href": "http://www.sparknotes.com/lit/matilda"
+    },
+    {
+        "title": "Maus: A Survivor's Tale",
+        "author": "Art Spiegelman",
+        "href": "http://www.sparknotes.com/lit/maus"
+    },
+    {
+        "title": "The Mayor of Casterbridge",
+        "author": "Thomas Hardy",
+        "href": "http://www.sparknotes.com/lit/casterbridge"
+    },
+    {
+        "title": "The Maze Runner",
+        "author": "James Dashner",
+        "href": "http://www.sparknotes.com/lit/maze-runner"
+    },
+    {
+        "title": "Medea",
+        "author": "Euripides",
+        "href": "http://www.sparknotes.com/lit/medea"
+    },
+    {
+        "title": "A Medieval Life",
+        "author": "Judith Bennett",
+        "href": "http://www.sparknotes.com/lit/medievallife"
+    },
+    {
+        "title": "Melville Stories",
+        "author": "Herman Melville",
+        "href": "http://www.sparknotes.com/lit/melvillestories"
+    },
+    {
+        "title": "The Member of the Wedding",
+        "author": "Carson McCullers",
+        "href": "http://www.sparknotes.com/lit/memberwedding"
+    },
+    {
+        "title": "The Memory Keeper's Daughter",
+        "author": "Kim Edwards",
+        "href": "http://www.sparknotes.com/lit/memory-keepers-daughter"
+    },
+    {
+        "title": "Meridian",
+        "author": "Alice Walker",
+        "href": "http://www.sparknotes.com/lit/meridian"
+    },
+    {
+        "title": "The Merry Adventures of Robin Hood",
+        "author": "Howard Pyle",
+        "href": "http://www.sparknotes.com/lit/robin-hood"
+    },
+    {
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "href": "http://www.sparknotes.com/lit/metamorphoses"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "href": "http://www.sparknotes.com/lit/metamorph"
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "href": "http://www.sparknotes.com/lit/middlemarch"
+    },
+    {
+        "title": "Middlesex",
+        "author": "Jeffrey Eugenides",
+        "href": "http://www.sparknotes.com/lit/middlesex"
+    },
+    {
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "href": "http://www.sparknotes.com/lit/the-midnight-library"
+    },
+    {
+        "title": "Midnight’s Children",
+        "author": "Salman Rushdie",
+        "href": "http://www.sparknotes.com/lit/midnightschildren"
+    },
+    {
+        "title": "A Midwife's Tale",
+        "author": "Laurel Thatcher Ulrich",
+        "href": "http://www.sparknotes.com/lit/midwifestale"
+    },
+    {
+        "title": "The Mill on the Floss",
+        "author": "James Frey",
+        "href": "http://www.sparknotes.com/lit/millonthefloss"
+    },
+    {
+        "title": "A Million Little Pieces",
+        "author": "James Frey",
+        "href": "http://www.sparknotes.com/lit/millionlittle"
+    },
+    {
+        "title": "Miss Lonelyhearts",
+        "author": "Nathanael West",
+        "href": "http://www.sparknotes.com/lit/lonelyhearts"
+    },
+    {
+        "title": "Missoula",
+        "author": "Jon Krakauer",
+        "href": "http://www.sparknotes.com/lit/missoula"
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "href": "http://www.sparknotes.com/lit/mobydick"
+    },
+    {
+        "title": "Mockingjay",
+        "author": "Suzanne Collins",
+        "href": "http://www.sparknotes.com/lit/mockingjay"
+    },
+    {
+        "title": "A Modest Proposal",
+        "author": "Jonathan Swift",
+        "href": "http://www.sparknotes.com/lit/modestproposal"
+    },
+    {
+        "title": "Moll Flanders",
+        "author": "Daniel Defoe",
+        "href": "http://www.sparknotes.com/lit/mollflanders"
+    },
+    {
+        "title": "Monster",
+        "author": "Walter Dean Myers",
+        "href": "http://www.sparknotes.com/lit/monster"
+    },
+    {
+        "title": "The Moonstone",
+        "author": "Wilkie Collins",
+        "href": "http://www.sparknotes.com/lit/moonstone"
+    },
+    {
+        "title": "Mrs. Dalloway",
+        "author": "Virginia Woolf",
+        "href": "http://www.sparknotes.com/lit/dalloway"
+    },
+    {
+        "title": "The Murder of Roger Ackroyd",
+        "author": "Agatha Christie",
+        "href": "http://www.sparknotes.com/lit/murder-of-roger-ackroyd"
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "href": "http://www.sparknotes.com/lit/orientexpress"
+    },
+    {
+        "title": "My Ántonia",
+        "author": "Willa Cather",
+        "href": "http://www.sparknotes.com/lit/antonia"
+    },
+    {
+        "title": "My Brother Sam is Dead",
+        "author": "Christopher Collier & James Lincoln Collier",
+        "href": "http://www.sparknotes.com/lit/brothersam"
+    },
+    {
+        "title": "My Name is Asher Lev",
+        "author": "Chaim Potok",
+        "href": "http://www.sparknotes.com/lit/asher"
+    },
+    {
+        "title": "My Sister's Keeper",
+        "author": "Jodi Picoult",
+        "href": "http://www.sparknotes.com/lit/my-sisters-keeper"
+    },
+    {
+        "title": "Mythology",
+        "author": "Edith Hamilton",
+        "href": "http://www.sparknotes.com/lit/mythology"
+    },
+    {
+        "title": "The Namesake",
+        "author": "Jhumpa Lahiri",
+        "href": "http://www.sparknotes.com/lit/the-namesake"
+    },
+    {
+        "title": "Narrative of the Life of Frederick Douglass",
+        "author": "Frederick Douglass",
+        "href": "http://www.sparknotes.com/lit/narrative"
+    },
+    {
+        "title": "Native Son",
+        "author": "Richard Wright",
+        "href": "http://www.sparknotes.com/lit/nativeson"
+    },
+    {
+        "title": "The Natural",
+        "author": "Bernard Malamud",
+        "href": "http://www.sparknotes.com/lit/natural"
+    },
+    {
+        "title": "Nausea",
+        "author": "Jean-Paul Sartre",
+        "href": "http://www.sparknotes.com/lit/nausea"
+    },
+    {
+        "title": "Nectar in a Sieve",
+        "author": "Kamala Markandaya",
+        "href": "http://www.sparknotes.com/lit/nectar"
+    },
+    {
+        "title": "Nervous Conditions",
+        "author": "Tsitsi Dangarembga",
+        "href": "http://www.sparknotes.com/lit/nervouscondition"
+    },
+    {
+        "title": "Never Let Me Go",
+        "author": "Kazuo Ishiguro",
+        "href": "http://www.sparknotes.com/lit/never-let-me-go"
+    },
+    {
+        "title": "The New Jim Crow",
+        "author": "Michelle Alexander",
+        "href": "http://www.sparknotes.com/lit/new-jim-crow"
+    },
+    {
+        "title": "Nickel and Dimed",
+        "author": "Barbara Ehrenreich",
+        "href": "http://www.sparknotes.com/lit/nickel-and-dimed"
+    },
+    {
+        "title": "The Nickel Boys",
+        "author": "Colson Whitehead",
+        "href": "http://www.sparknotes.com/lit/nickel-boys"
+    },
+    {
+        "title": "Night",
+        "author": "Elie Wiesel",
+        "href": "http://www.sparknotes.com/lit/night"
+    },
+    {
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "href": "http://www.sparknotes.com/lit/night-circus"
+    },
+    {
+        "title": "Nisa: The Life and Words of a !Kung Woman",
+        "author": "Marjorie Shostak",
+        "href": "http://www.sparknotes.com/lit/nisa"
+    },
+    {
+        "title": "No Country for Old Men",
+        "author": "Cormac McCarthy",
+        "href": "http://www.sparknotes.com/lit/no-country-for-old-men"
+    },
+    {
+        "title": "No Exit",
+        "author": "Jean-Paul Sartre",
+        "href": "http://www.sparknotes.com/lit/noexit"
+    },
+    {
+        "title": "No Longer At Ease",
+        "author": "Chinua Achebe",
+        "href": "http://www.sparknotes.com/lit/nolonger"
+    },
+    {
+        "title": "No One Is too Small to Make a Difference",
+        "author": "Greta Thunberg",
+        "href": "http://www.sparknotes.com/lit/no-one-is-too-small-to-make-a-difference"
+    },
+    {
+        "title": "Noah's Compass",
+        "author": "Anne Tyler",
+        "href": "http://www.sparknotes.com/lit/noahs-compass"
+    },
+    {
+        "title": "Normal People",
+        "author": "Sally Rooney",
+        "href": "http://www.sparknotes.com/lit/normal-people"
+    },
+    {
+        "title": "Northanger Abbey",
+        "author": "Jane Austen",
+        "href": "http://www.sparknotes.com/lit/northangerabbey"
+    },
+    {
+        "title": "Notes from Underground",
+        "author": "Fyodor Dostoyevsky",
+        "href": "http://www.sparknotes.com/lit/underground"
+    },
+    {
+        "title": "Number the Stars",
+        "author": "Lois Lowry",
+        "href": "http://www.sparknotes.com/lit/numberthestars"
+    },
+    {
+        "title": "O Pioneers!",
+        "author": "Willa Cather",
+        "href": "http://www.sparknotes.com/lit/opioneers"
+    },
+    {
+        "title": "Obasan",
+        "author": "Joy Kogawa",
+        "href": "http://www.sparknotes.com/lit/obasan"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "href": "http://www.sparknotes.com/lit/odyssey"
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/micemen"
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "href": "http://www.sparknotes.com/lit/oldman"
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/oliver"
+    },
+    {
+        "title": "On the Beach",
+        "author": "Nevil Shute",
+        "href": "http://www.sparknotes.com/lit/onthebeach"
+    },
+    {
+        "title": "On The Come Up",
+        "author": "Angie Thomas",
+        "href": "http://www.sparknotes.com/lit/come-up"
+    },
+    {
+        "title": "On the Origin of Species",
+        "author": "Charles Darwin",
+        "href": "http://www.sparknotes.com/lit/origin"
+    },
+    {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "href": "http://www.sparknotes.com/lit/ontheroad"
+    },
+    {
+        "title": "The Once and Future King",
+        "author": "T. H. White",
+        "href": "http://www.sparknotes.com/lit/futureking"
+    },
+    {
+        "title": "One Day in the Life of Ivan Denisovich",
+        "author": "Alexander Solzhenitsyn",
+        "href": "http://www.sparknotes.com/lit/denisovich"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "href": "http://www.sparknotes.com/lit/cuckoo"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "href": "http://www.sparknotes.com/lit/solitude"
+    },
+    {
+        "title": "One of Us Is Lying",
+        "author": "Karen M. McManus",
+        "href": "http://www.sparknotes.com/lit/one-of-us-is-lying"
+    },
+    {
+        "title": "Oranges Are Not the Only Fruit",
+        "author": "Jeanette Winterson",
+        "href": "http://www.sparknotes.com/lit/oranges"
+    },
+    {
+        "title": "Ordinary People",
+        "author": "Judith Guest",
+        "href": "http://www.sparknotes.com/lit/ordinarypeople"
+    },
+    {
+        "title": "Orlando",
+        "author": "Virginia Woolf",
+        "href": "http://www.sparknotes.com/lit/orlando"
+    },
+    {
+        "title": "Oryx and Crake",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/oryxcrake"
+    },
+    {
+        "title": "The Other Wes Moore",
+        "author": "Wes Moore",
+        "href": "http://www.sparknotes.com/lit/other-wes-moore"
+    },
+    {
+        "title": "Our Town",
+        "author": "Thornton Wilder",
+        "href": "http://www.sparknotes.com/lit/ourtown"
+    },
+    {
+        "title": "Out of Africa",
+        "author": "Isak Dinesen",
+        "href": "http://www.sparknotes.com/lit/africa"
+    },
+    {
+        "title": "Out of My Mind",
+        "author": "Sharon M. Draper",
+        "href": "http://www.sparknotes.com/lit/out-of-my-mind"
+    },
+    {
+        "title": "Outliers",
+        "author": "Malcolm Gladwell",
+        "href": "http://www.sparknotes.com/lit/outliers"
+    },
+    {
+        "title": "The Outsiders",
+        "author": "S. E. Hinton",
+        "href": "http://www.sparknotes.com/lit/outsiders"
+    },
+    {
+        "title": "Paper Towns",
+        "author": "John Green",
+        "href": "http://www.sparknotes.com/lit/paper-towns"
+    },
+    {
+        "title": "Parable of the Sower",
+        "author": "Octavia E. Butler",
+        "href": "http://www.sparknotes.com/lit/parable-of-the-sower"
+    },
+    {
+        "title": "A Passage to India",
+        "author": "E. M. Forster",
+        "href": "http://www.sparknotes.com/lit/passage"
+    },
+    {
+        "title": "Passing",
+        "author": "Nella Larsen",
+        "href": "http://www.sparknotes.com/lit/passing"
+    },
+    {
+        "title": "The Pearl",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/pearl"
+    },
+    {
+        "title": "The Penelopiad",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/penelopiad"
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "href": "http://www.sparknotes.com/lit/the-perks-of-being-a-wallflower"
+    },
+    {
+        "title": "Persepolis 2: The Story of a Return",
+        "author": "Marjane Satrapi",
+        "href": "http://www.sparknotes.com/lit/persepolis-2-the-story-of-a-return"
+    },
+    {
+        "title": "Persepolis: The Story of a Childhood",
+        "author": "Marjane Satrapi",
+        "href": "http://www.sparknotes.com/lit/persepolis-the-story-of-a-childhood"
+    },
+    {
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "href": "http://www.sparknotes.com/lit/persuasion"
+    },
+    {
+        "title": "The Phantom Tollbooth",
+        "author": "Norton Juster",
+        "href": "http://www.sparknotes.com/lit/tollbooth"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "href": "http://www.sparknotes.com/lit/doriangray"
+    },
+    {
+        "title": "The Pigman",
+        "author": "Paul Zindel",
+        "href": "http://www.sparknotes.com/lit/the-pigman"
+    },
+    {
+        "title": "Pigs in Heaven",
+        "author": "Barbara Kingsolver",
+        "href": "http://www.sparknotes.com/lit/pigsheaven"
+    },
+    {
+        "title": "The Pilgrim's Progress",
+        "author": "John Bunyan",
+        "href": "http://www.sparknotes.com/lit/pilgrims"
+    },
+    {
+        "title": "The Plague",
+        "author": "Albert Camus",
+        "href": "http://www.sparknotes.com/lit/plague"
+    },
+    {
+        "title": "Poe's Short Stories",
+        "author": "Edgar Allan Poe",
+        "href": "http://www.sparknotes.com/lit/poestories"
+    },
+    {
+        "title": "The Poet X",
+        "author": "Elizabeth Acevedo",
+        "href": "http://www.sparknotes.com/lit/the-poet-x"
+    },
+    {
+        "title": "Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "href": "http://www.sparknotes.com/lit/poisonwood"
+    },
+    {
+        "title": "The Portrait of a Lady",
+        "author": "Henry James",
+        "href": "http://www.sparknotes.com/lit/portraitlady"
+    },
+    {
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce",
+        "href": "http://www.sparknotes.com/lit/portraitartist"
+    },
+    {
+        "title": "The Power and the Glory",
+        "author": "Graham Greene",
+        "href": "http://www.sparknotes.com/lit/powerglory"
+    },
+    {
+        "title": "The Power of One",
+        "author": "Bryce Courtenay",
+        "href": "http://www.sparknotes.com/lit/power"
+    },
+    {
+        "title": "A Prayer for Owen Meany",
+        "author": "John Irving",
+        "href": "http://www.sparknotes.com/lit/owenmeany"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "href": "http://www.sparknotes.com/lit/pride"
+    },
+    {
+        "title": "The Princess Bride",
+        "author": "William Goldman",
+        "href": "http://www.sparknotes.com/lit/princessbride"
+    },
+    {
+        "title": "Pudd'nhead Wilson",
+        "author": "Mark Twain",
+        "href": "http://www.sparknotes.com/lit/puddnhead"
+    },
+    {
+        "title": "Purple Hibiscus",
+        "author": "Chimamanda Ngozi Adichie",
+        "href": "http://www.sparknotes.com/lit/purple-hibiscus"
+    },
+    {
+        "title": "Pygmalion",
+        "author": "George Bernard Shaw ",
+        "href": "http://www.sparknotes.com/lit/pygmalion"
+    },
+    {
+        "title": "Quicksand",
+        "author": "Nella Larsen",
+        "href": "http://www.sparknotes.com/lit/quicksand"
+    },
+    {
+        "title": "The Quiet American",
+        "author": "Graham Greene",
+        "href": "http://www.sparknotes.com/lit/the-quiet-american"
+    },
+    {
+        "title": "Ragtime",
+        "author": "E. L. Doctorow",
+        "href": "http://www.sparknotes.com/lit/ragtime"
+    },
+    {
+        "title": "A Raisin in the Sun",
+        "author": "Lorraine Hansberry",
+        "href": "http://www.sparknotes.com/lit/raisin"
+    },
+    {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "href": "http://www.sparknotes.com/lit/ready-player-one"
+    },
+    {
+        "title": "Ready Player Two",
+        "author": "Ernest Cline",
+        "href": "http://www.sparknotes.com/lit/ready-player-two"
+    },
+    {
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "href": "http://www.sparknotes.com/lit/rebecca"
+    },
+    {
+        "title": "The Red and the Black",
+        "author": "Stendhal",
+        "href": "http://www.sparknotes.com/lit/redblack"
+    },
+    {
+        "title": "The Red Badge of Courage",
+        "author": "Stephen Crane",
+        "href": "http://www.sparknotes.com/lit/redbadge"
+    },
+    {
+        "title": "The Red Pony",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/redpony"
+    },
+    {
+        "title": "The Red Tent",
+        "author": "Anita Diamant",
+        "href": "http://www.sparknotes.com/lit/redtent"
+    },
+    {
+        "title": "Red, White, and Royal Blue",
+        "author": "Casey McQuiston",
+        "href": "http://www.sparknotes.com/lit/red-white-and-royal-blue"
+    },
+    {
+        "title": "Refugee",
+        "author": "Alan Gratz",
+        "href": "http://www.sparknotes.com/lit/refugee"
+    },
+    {
+        "title": "Regeneration",
+        "author": "Pat Barker",
+        "href": "http://www.sparknotes.com/lit/regeneration"
+    },
+    {
+        "title": "The Remains of the Day",
+        "author": "Kazuo Ishiguro",
+        "href": "http://www.sparknotes.com/lit/remains"
+    },
+    {
+        "title": "The Return of the King",
+        "author": "J. R. R. Tolkien",
+        "href": "http://www.sparknotes.com/lit/returnking"
+    },
+    {
+        "title": "The Return of the Native",
+        "author": "Thomas Hardy",
+        "href": "http://www.sparknotes.com/lit/returnofnative"
+    },
+    {
+        "title": "Rip Van Winkle",
+        "author": "Washington Irving",
+        "href": "http://www.sparknotes.com/lit/rip-van-winkle"
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "href": "http://www.sparknotes.com/lit/road"
+    },
+    {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "href": "http://www.sparknotes.com/lit/crusoe"
+    },
+    {
+        "title": "Roll of Thunder, Hear My Cry",
+        "author": "Mildred D. Taylor",
+        "href": "http://www.sparknotes.com/lit/rollofthunder"
+    },
+    {
+        "title": "A Room of One's Own",
+        "author": "Virginia Woolf",
+        "href": "http://www.sparknotes.com/lit/roomofonesown"
+    },
+    {
+        "title": "A Room with a View",
+        "author": "E. M. Forster",
+        "href": "http://www.sparknotes.com/lit/room"
+    },
+    {
+        "title": "Rosencrantz and Guildenstern Are Dead",
+        "author": "Tom Stoppard",
+        "href": "http://www.sparknotes.com/lit/rosencrantz"
+    },
+    {
+        "title": "The Round House",
+        "author": "Louise Erdrich",
+        "href": "http://www.sparknotes.com/lit/round-house"
+    },
+    {
+        "title": "Rubyfruit Jungle",
+        "author": "Rita Mae Brown",
+        "href": "http://www.sparknotes.com/lit/rubyfruit"
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "href": "http://www.sparknotes.com/lit/scarlet"
+    },
+    {
+        "title": "The Screwtape Letters",
+        "author": "C.S. Lewis ",
+        "href": "http://www.sparknotes.com/lit/screwtape-letters"
+    },
+    {
+        "title": "The Second Sex",
+        "author": "Simone de Beauvoir",
+        "href": "http://www.sparknotes.com/lit/secondsex"
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "href": "http://www.sparknotes.com/lit/secretgarden"
+    },
+    {
+        "title": "The Secret History",
+        "author": "Donna Tartt",
+        "href": "http://www.sparknotes.com/lit/the-secret-history"
+    },
+    {
+        "title": "The Secret Life of Bees",
+        "author": "Sue Monk Kidd",
+        "href": "http://www.sparknotes.com/lit/secretbees"
+    },
+    {
+        "title": "Seize the Day",
+        "author": "Saul Bellow",
+        "href": "http://www.sparknotes.com/lit/seize"
+    },
+    {
+        "title": "The Selection",
+        "author": "Kiera Cass",
+        "href": "http://www.sparknotes.com/lit/selection"
+    },
+    {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "href": "http://www.sparknotes.com/lit/sensibility"
+    },
+    {
+        "title": "Sentimental Education",
+        "author": "Gustave Flaubert",
+        "href": "http://www.sparknotes.com/lit/sentimental"
+    },
+    {
+        "title": "A Separate Peace",
+        "author": "John Knowles",
+        "href": "http://www.sparknotes.com/lit/separate"
+    },
+    {
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "author": "Taylor Jenkins Reid",
+        "href": "http://www.sparknotes.com/lit/evelyn-hugo"
+    },
+    {
+        "title": "Shabanu",
+        "author": "Suzanne Fisher Staples",
+        "href": "http://www.sparknotes.com/lit/shabanu"
+    },
+    {
+        "title": "Shadow and Bone",
+        "author": "Leigh Bardugo",
+        "href": "http://www.sparknotes.com/lit/shadow-and-bone"
+    },
+    {
+        "title": "Shane",
+        "author": "Jack Schaefer",
+        "href": "http://www.sparknotes.com/lit/shane"
+    },
+    {
+        "title": "The Shipping News",
+        "author": "Annie Proulx",
+        "href": "http://www.sparknotes.com/lit/shipping"
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Herman Hesse",
+        "href": "http://www.sparknotes.com/lit/siddhartha"
+    },
+    {
+        "title": "Silas Marner",
+        "author": "George Eliot",
+        "href": "http://www.sparknotes.com/lit/silas"
+    },
+    {
+        "title": "Silence",
+        "author": "Shūsaku Endō",
+        "href": "http://www.sparknotes.com/lit/silence"
+    },
+    {
+        "title": "Sir Gawain and the Green Knight",
+        "author": "Literature",
+        "href": "http://www.sparknotes.com/lit/gawain"
+    },
+    {
+        "title": "Sister Carrie",
+        "author": "Theodore Dreiser",
+        "href": "http://www.sparknotes.com/lit/sistercarrie"
+    },
+    {
+        "title": "The Sisterhood of the Traveling Pants",
+        "author": "Ann Brashares",
+        "href": "http://www.sparknotes.com/lit/sisterpants"
+    },
+    {
+        "title": "Six of Crows",
+        "author": "Leigh Bardugo",
+        "href": "http://www.sparknotes.com/lit/six-of-crows"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "href": "http://www.sparknotes.com/lit/slaughter"
+    },
+    {
+        "title": "A Small Place",
+        "author": "Jamaica Kincaid",
+        "href": "http://www.sparknotes.com/lit/smallplace"
+    },
+    {
+        "title": "Snow Flower and the Secret Fan",
+        "author": "Lisa See",
+        "href": "http://www.sparknotes.com/lit/snow-flower-secret-fan"
+    },
+    {
+        "title": "Something Wicked This Way Comes",
+        "author": "Ray Bradbury",
+        "href": "http://www.sparknotes.com/lit/wicked"
+    },
+    {
+        "title": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "href": "http://www.sparknotes.com/lit/song-of-achilles"
+    },
+    {
+        "title": "Song of Roland",
+        "author": "Literature",
+        "href": "http://www.sparknotes.com/lit/songofroland"
+    },
+    {
+        "title": "Song of Solomon",
+        "author": "Toni Morrison",
+        "href": "http://www.sparknotes.com/lit/solomon"
+    },
+    {
+        "title": "Sons and Lovers",
+        "author": "D.H. Lawrence",
+        "href": "http://www.sparknotes.com/lit/sonsandlovers"
+    },
+    {
+        "title": "Sons and Other Flammable Objects",
+        "author": "Porochista Khakpour",
+        "href": "http://www.sparknotes.com/lit/sons-and-other-flammable-objects"
+    },
+    {
+        "title": "Sophie's Choice",
+        "author": "William Styron",
+        "href": "http://www.sparknotes.com/lit/sophies-choice"
+    },
+    {
+        "title": "Sophie's World",
+        "author": "Jostein Gaarder",
+        "href": "http://www.sparknotes.com/lit/sophie"
+    },
+    {
+        "title": "The Sorrows of Young Werther",
+        "author": "Johann Wolfgang von Goethe",
+        "href": "http://www.sparknotes.com/lit/sorrows-of-young-werther"
+    },
+    {
+        "title": "The Souls of Black Folk",
+        "author": "W.E.B. Du Bois",
+        "href": "http://www.sparknotes.com/lit/souls-of-black-folk"
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "href": "http://www.sparknotes.com/lit/soundfury"
+    },
+    {
+        "title": "Sounder",
+        "author": "William Armstrong",
+        "href": "http://www.sparknotes.com/lit/sounder"
+    },
+    {
+        "title": "The Sovereignty and Goodness of God",
+        "author": "Mary Rowlandson",
+        "href": "http://www.sparknotes.com/lit/sovereignty"
+    },
+    {
+        "title": "Speak",
+        "author": "Laurie Halse Anderson",
+        "href": "http://www.sparknotes.com/lit/speak"
+    },
+    {
+        "title": "Stargirl",
+        "author": "Jerry Spinelli",
+        "href": "http://www.sparknotes.com/lit/stargirl"
+    },
+    {
+        "title": "Station Eleven",
+        "author": "Emily St. John Mandel",
+        "href": "http://www.sparknotes.com/lit/station-eleven"
+    },
+    {
+        "title": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "href": "http://www.sparknotes.com/lit/steppenwolf"
+    },
+    {
+        "title": "A Storm of Swords",
+        "author": "George R.R. Martin",
+        "href": "http://www.sparknotes.com/lit/a-storm-of-swords"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "href": "http://www.sparknotes.com/lit/stranger"
+    },
+    {
+        "title": "Stranger in a Strange Land",
+        "author": "Robert A. Heinlein",
+        "href": "http://www.sparknotes.com/lit/strangeland"
+    },
+    {
+        "title": "A Streetcar Named Desire",
+        "author": "Tennessee Williams",
+        "href": "http://www.sparknotes.com/lit/streetcar"
+    },
+    {
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "href": "http://www.sparknotes.com/lit/study-in-scarlet"
+    },
+    {
+        "title": "Sula",
+        "author": "Toni Morrison",
+        "href": "http://www.sparknotes.com/lit/sula"
+    },
+    {
+        "title": "The Summer I Turned Pretty",
+        "author": "Jenny Han",
+        "href": "http://www.sparknotes.com/lit/the-summer-i-turned-pretty"
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "href": "http://www.sparknotes.com/lit/sun"
+    },
+    {
+        "title": "Surfacing",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/surfacing"
+    },
+    {
+        "title": "Survival in Auschwitz",
+        "author": "Primo Levi",
+        "href": "http://www.sparknotes.com/lit/survival-in-auschwitz"
+    },
+    {
+        "title": "Swann's Way",
+        "author": "Marcel Proust",
+        "href": "http://www.sparknotes.com/lit/swannsway"
+    },
+    {
+        "title": "Sweat",
+        "author": "Zora Neale Hurston",
+        "href": "http://www.sparknotes.com/lit/sweat"
+    },
+    {
+        "title": "The Tale of Genji",
+        "author": "Lady Murasaki Shikibu",
+        "href": "http://www.sparknotes.com/lit/tale-of-genji"
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "href": "http://www.sparknotes.com/lit/a-tale-of-two-cities"
+    },
+    {
+        "title": "Tangerine",
+        "author": "Edward Bloor",
+        "href": "http://www.sparknotes.com/lit/tangerine"
+    },
+    {
+        "title": "Tar Baby",
+        "author": "Toni Morrison",
+        "href": "http://www.sparknotes.com/lit/tarbaby"
+    },
+    {
+        "title": "Tender Is the Night",
+        "author": "F. Scott Fitzgerald",
+        "href": "http://www.sparknotes.com/lit/tender"
+    },
+    {
+        "title": "Tess of the d'Urbervilles",
+        "author": "Thomas Hardy",
+        "href": "http://www.sparknotes.com/lit/tess"
+    },
+    {
+        "title": "The Testaments",
+        "author": "Margaret Atwood",
+        "href": "http://www.sparknotes.com/lit/testaments"
+    },
+    {
+        "title": "Their Eyes Were Watching God",
+        "author": "Zora Neale Hurston",
+        "href": "http://www.sparknotes.com/lit/eyes"
+    },
+    {
+        "title": "There There",
+        "author": "Tommy Orange",
+        "href": "http://www.sparknotes.com/lit/there-there"
+    },
+    {
+        "title": "They Both Die at the End",
+        "author": "Adam Silvera",
+        "href": "http://www.sparknotes.com/lit/they-both-die-at-the-end"
+    },
+    {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "href": "http://www.sparknotes.com/lit/things"
+    },
+    {
+        "title": "The Things They Carried",
+        "author": "Tim O'Brien",
+        "href": "http://www.sparknotes.com/lit/thingscarried"
+    },
+    {
+        "title": "Thirteen Reasons Why",
+        "author": "Jay Asher",
+        "href": "http://www.sparknotes.com/lit/thirteen-reasons-why"
+    },
+    {
+        "title": "This Boy's Life",
+        "author": "Tobias Wolff",
+        "href": "http://www.sparknotes.com/lit/thisboyslife"
+    },
+    {
+        "title": "This Side of Paradise",
+        "author": "F. Scott Fitzgerald",
+        "href": "http://www.sparknotes.com/lit/paradise"
+    },
+    {
+        "title": "A Thousand Acres",
+        "author": "Jane Smiley",
+        "href": "http://www.sparknotes.com/lit/a-thousand-acres"
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "href": "http://www.sparknotes.com/lit/thousand-splendid-suns"
+    },
+    {
+        "title": "Three Cups of Tea",
+        "author": "Greg Mortenson & David Oliver Relin",
+        "href": "http://www.sparknotes.com/lit/three-cups-of-tea"
+    },
+    {
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "href": "http://www.sparknotes.com/lit/3musk"
+    },
+    {
+        "title": "The Threepenny Opera",
+        "author": "Bertolt Bretcht",
+        "href": "http://www.sparknotes.com/lit/threepenny"
+    },
+    {
+        "title": "Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "href": "http://www.sparknotes.com/lit/through-the-looking-glass"
+    },
+    {
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "href": "http://www.sparknotes.com/lit/timemachine"
+    },
+    {
+        "title": "To Build a Fire",
+        "author": "Jack London",
+        "href": "http://www.sparknotes.com/lit/to-build-a-fire"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "href": "http://www.sparknotes.com/lit/mocking"
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "href": "http://www.sparknotes.com/lit/lighthouse"
+    },
+    {
+        "title": "Tom Jones",
+        "author": "Henry Fielding",
+        "href": "http://www.sparknotes.com/lit/tomjones"
+    },
+    {
+        "title": "Tortilla Flat",
+        "author": "John Steinbeck",
+        "href": "http://www.sparknotes.com/lit/tortillaflat"
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "href": "http://www.sparknotes.com/lit/treasure"
+    },
+    {
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty Smith",
+        "href": "http://www.sparknotes.com/lit/brooklyn"
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "href": "http://www.sparknotes.com/lit/trial"
+    },
+    {
+        "title": "Tristram Shandy",
+        "author": "Laurence Sterne",
+        "href": "http://www.sparknotes.com/lit/tristram"
+    },
+    {
+        "title": "Tuck Everlasting",
+        "author": "Natalie Babbitt",
+        "href": "http://www.sparknotes.com/lit/tuck-everlasting"
+    },
+    {
+        "title": "Tuesdays with Morrie",
+        "author": "Mitch Albom",
+        "href": "http://www.sparknotes.com/lit/morrie"
+    },
+    {
+        "title": "The Turn of the Screw",
+        "author": "Henry James",
+        "href": "http://www.sparknotes.com/lit/screw"
+    },
+    {
+        "title": "Turtles All the Way Down",
+        "author": "John Green",
+        "href": "http://www.sparknotes.com/lit/turtles-all-the-way-down"
+    },
+    {
+        "title": "Twelve Years a Slave",
+        "author": "Solomon Northup",
+        "href": "http://www.sparknotes.com/lit/twelve-years-a-slave"
+    },
+    {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "href": "http://www.sparknotes.com/lit/twilight"
+    },
+    {
+        "title": "Twilight of the Superheroes",
+        "author": "Deborah Eisenberg",
+        "href": "http://www.sparknotes.com/lit/twilight-of-the-superheroes"
+    },
+    {
+        "title": "Two Kinds",
+        "author": "Amy Tan",
+        "href": "http://www.sparknotes.com/lit/two-kinds"
+    },
+    {
+        "title": "The Two Towers",
+        "author": "J. R. R. Tolkien",
+        "href": "http://www.sparknotes.com/lit/twotowers"
+    },
+    {
+        "title": "Typee",
+        "author": "Herman Melville",
+        "href": "http://www.sparknotes.com/lit/typee"
+    },
+    {
+        "title": "Uglies",
+        "author": "Scott Westerfeld",
+        "href": "http://www.sparknotes.com/lit/uglies"
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "href": "http://www.sparknotes.com/lit/ulysses"
+    },
+    {
+        "title": "The Unbearable Lightness of Being",
+        "author": "Milan Kundera",
+        "href": "http://www.sparknotes.com/lit/unbearablelightness"
+    },
+    {
+        "title": "Unbroken",
+        "author": "Laura Hillenbrand",
+        "href": "http://www.sparknotes.com/lit/unbroken"
+    },
+    {
+        "title": "Uncle Tom’s Cabin",
+        "author": "Harriet Beecher Stowe",
+        "href": "http://www.sparknotes.com/lit/uncletom"
+    },
+    {
+        "title": "Under the Feet of Jesus",
+        "author": "Helena Maria Viramontes",
+        "href": "http://www.sparknotes.com/lit/under-the-feet-of-jesus"
+    },
+    {
+        "title": "The Underground Railroad",
+        "author": "Colson Whitehead",
+        "href": "http://www.sparknotes.com/lit/underground-railroad"
+    },
+    {
+        "title": "The Unvanquished",
+        "author": "William Faulkner",
+        "href": "http://www.sparknotes.com/lit/unvanquished"
+    },
+    {
+        "title": "Up From Slavery",
+        "author": "Booker T. Washington",
+        "href": "http://www.sparknotes.com/lit/up-from-slavery"
+    },
+    {
+        "title": "V for Vendetta",
+        "author": "Alan Moore",
+        "href": "http://www.sparknotes.com/lit/v-for-vendetta"
+    },
+    {
+        "title": "The Vanishing Half",
+        "author": "Brit Bennett",
+        "href": "http://www.sparknotes.com/lit/vanishing-half"
+    },
+    {
+        "title": "Vanity Fair",
+        "author": "William Makepeace Thackeray",
+        "href": "http://www.sparknotes.com/lit/vanity-fair"
+    },
+    {
+        "title": "The Veldt",
+        "author": "Ray Bradbury",
+        "href": "http://www.sparknotes.com/lit/the-veldt"
+    },
+    {
+        "title": "A Very Large Expanse of Sea",
+        "author": "Tahereh Mafi",
+        "href": "http://www.sparknotes.com/lit/very-large-expanse-of-sea"
+    },
+    {
+        "title": "Virgin Suicides",
+        "author": "Jeffrey Eugenides",
+        "href": "http://www.sparknotes.com/lit/virginsuicides"
+    },
+    {
+        "title": "Waiting for Godot",
+        "author": "Samuel Beckett",
+        "href": "http://www.sparknotes.com/lit/godot"
+    },
+    {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "href": "http://www.sparknotes.com/lit/walden"
+    },
+    {
+        "title": "Walden Two",
+        "author": "B.F. Skinner",
+        "href": "http://www.sparknotes.com/lit/walden2"
+    },
+    {
+        "title": "Walk Two Moons",
+        "author": "Sharon Creech",
+        "href": "http://www.sparknotes.com/lit/twomoons"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "href": "http://www.sparknotes.com/lit/warandpeace"
+    },
+    {
+        "title": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "href": "http://www.sparknotes.com/lit/war-of-the-worlds"
+    },
+    {
+        "title": "Warriors Don't Cry",
+        "author": "Melba Patillo Beals",
+        "href": "http://www.sparknotes.com/lit/warriorsdontcry"
+    },
+    {
+        "title": "Watership Down",
+        "author": "Richard Adams",
+        "href": "http://www.sparknotes.com/lit/watership"
+    },
+    {
+        "title": "The Watsons Go to Birmingham—1963",
+        "author": "Christopher Paul Curtis",
+        "href": "http://www.sparknotes.com/lit/the-watsons-go-to-birmingham"
+    },
+    {
+        "title": "The Wave",
+        "author": "Todd Strasser",
+        "href": "http://www.sparknotes.com/lit/the-wave"
+    },
+    {
+        "title": "The Waves",
+        "author": "Virginia Woolf",
+        "href": "http://www.sparknotes.com/lit/waves"
+    },
+    {
+        "title": "The Way to Rainy Mountain",
+        "author": "N. Scott Momaday",
+        "href": "http://www.sparknotes.com/lit/way-to-rainy-mountain"
+    },
+    {
+        "title": "We Were Liars",
+        "author": "E. Lockhart",
+        "href": "http://www.sparknotes.com/lit/we-were-liars"
+    },
+    {
+        "title": "The Westing Game",
+        "author": "Ellen Raskin",
+        "href": "http://www.sparknotes.com/lit/the-westing-game"
+    },
+    {
+        "title": "When Heaven and Earth Changed Places",
+        "author": "Le Ly Hayslip",
+        "href": "http://www.sparknotes.com/lit/whenheaven"
+    },
+    {
+        "title": "When the Emperor Was Divine",
+        "author": "Julie Otsuka",
+        "href": "http://www.sparknotes.com/lit/when-emperor-was-divine"
+    },
+    {
+        "title": "When the Legends Die",
+        "author": "Hal Borland",
+        "href": "http://www.sparknotes.com/lit/whenlegends"
+    },
+    {
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "href": "http://www.sparknotes.com/lit/where-the-crawdads-sing"
+    },
+    {
+        "title": "Where the Dead Sit Talking",
+        "author": "Brandon Hobson ",
+        "href": "http://www.sparknotes.com/lit/where-the-dead-sit-talking"
+    },
+    {
+        "title": "Where the Red Fern Grows",
+        "author": "Wilson Rawls",
+        "href": "http://www.sparknotes.com/lit/redfern"
+    },
+    {
+        "title": "White Fang",
+        "author": "Jack London",
+        "href": "http://www.sparknotes.com/lit/fang"
+    },
+    {
+        "title": "White Fragility",
+        "author": "Robin DiAngelo",
+        "href": "http://www.sparknotes.com/lit/white-fragility"
+    },
+    {
+        "title": "White Noise",
+        "author": "Don DeLillo",
+        "href": "http://www.sparknotes.com/lit/whitenoise"
+    },
+    {
+        "title": "White Teeth",
+        "author": "Zadie Smith",
+        "href": "http://www.sparknotes.com/lit/white-teeth"
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "author": "Edward Albee",
+        "href": "http://www.sparknotes.com/lit/afraidofwoolf"
+    },
+    {
+        "title": "Wide Sargasso Sea",
+        "author": "Jean Rhys",
+        "href": "http://www.sparknotes.com/lit/sargasso"
+    },
+    {
+        "title": "Will Grayson, Will Grayson",
+        "author": "John Green",
+        "href": "http://www.sparknotes.com/lit/will-grayson-will-grayson"
+    },
+    {
+        "title": "The Wind in the Willows",
+        "author": "Kenneth Grahame",
+        "href": "http://www.sparknotes.com/lit/the-wind-in-the-willows"
+    },
+    {
+        "title": "Winesburg, Ohio",
+        "author": "Sherwood Anderson",
+        "href": "http://www.sparknotes.com/lit/winesburgohio"
+    },
+    {
+        "title": "The Witch of Blackbird Pond",
+        "author": "Elizabeth George Speare",
+        "href": "http://www.sparknotes.com/lit/the-witch-of-blackbird-pond"
+    },
+    {
+        "title": "Woman at Point Zero",
+        "author": "Nawal El Saadawi",
+        "href": "http://www.sparknotes.com/lit/pointzero"
+    },
+    {
+        "title": "The Woman Warrior",
+        "author": "Maxine Hong Kingston",
+        "href": "http://www.sparknotes.com/lit/womanwarrior"
+    },
+    {
+        "title": "The Women of Brewster Place",
+        "author": "Gloria Naylor",
+        "href": "http://www.sparknotes.com/lit/brewsterplace"
+    },
+    {
+        "title": "Wonder",
+        "author": "R.J. Palacio",
+        "href": "http://www.sparknotes.com/lit/wonder"
+    },
+    {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "href": "http://www.sparknotes.com/lit/wonderful-wizard-of-oz"
+    },
+    {
+        "title": "A Worn Path",
+        "author": "Eudora Welty",
+        "href": "http://www.sparknotes.com/lit/a-worn-path"
+    },
+    {
+        "title": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "href": "http://www.sparknotes.com/lit/wrinkle"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "href": "http://www.sparknotes.com/lit/wuthering"
+    },
+    {
+        "title": "The Year of Magical Thinking",
+        "author": "Joan Didion",
+        "href": "http://www.sparknotes.com/lit/yearmagical"
+    },
+    {
+        "title": "A Yellow Raft in Blue Water",
+        "author": "Michael Dorris",
+        "href": "http://www.sparknotes.com/lit/yellowraft"
+    },
+    {
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "href": "http://www.sparknotes.com/lit/yellowwallpaper"
+    }
+]

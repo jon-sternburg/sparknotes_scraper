@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "epubjs": "^0.3.93",
+    "puppeteer": "^21.3.1",
+    "window": "^4.2.7",
+    "xhr2": "^0.2.1"
+  },
+  "name": "sparknotes_scraper",
+  "version": "1.0.0",
+  "main": "book_reader_paste_in.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
