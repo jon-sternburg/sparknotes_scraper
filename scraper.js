@@ -309,7 +309,7 @@ async function fix_quotes() {
           })
         )
           .then(async (new_data) => {
-            let f = `C:/Users/jonst/projects/book_reader/public/book_data/${file.id}.json`; //path.join(process.cwd(), 'new_book_data', `${file.id}.json`)
+            let f =  path.join(process.cwd(), 'book_data', `${file.id}.json`) //path may need to be changed here
             await fsp.writeFile(f, JSON.stringify(new_data)).then(() => {
               //console.log('done - ', file )
               resolve();
