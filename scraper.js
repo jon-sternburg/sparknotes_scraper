@@ -324,14 +324,14 @@ async function fix_quotes() {
 // RUN AFTER RUNNING BOOK READER TO MATCH QUOTES IN TEXT
 async function get_complete_list() {
   let book_data_files = [];
-  const data_folder_path = `C:/Users/jonst/projects/book_reader/src/app/data/complete_book_data`; //path.join(process.cwd(), 'complete_book_data')
+  const data_folder_path = path.join(process.cwd(), 'data', 'complete_book_data')
   const books_to_scrape = require("./books_to_scrape.json");
 
   return fsp
     .readdir(data_folder_path)
     .then((files) => {
       return files.forEach(function (file) {
-        let check = require(`C:/Users/jonst/projects/book_reader/src/app/data/complete_book_data/${file}`);
+        let check = path.join(process.cwd(), 'data', 'complete_book_data', file) 
 
         if (check.length > 0) {
           let id = file.replace(".json", "");
@@ -343,7 +343,7 @@ async function get_complete_list() {
       });
     })
     .then(async () => {
-      let f = `C:/Users/jonst/projects/book_reader/src/app/data/complete_scraped_book_list.json`; //path.join(process.cwd(), `complete_scraped_book_list.json`)
+      let f = path.join(process.cwd(), 'data', 'complete_book_data', `complete_scraped_book_list.json`)
       await fsp.writeFile(f, JSON.stringify(book_data_files)).then(() => {
         console.log(
           "done - file count: ",
@@ -379,8 +379,8 @@ async function remove_duplicates() {
 }
 
 async function add_count_to_book_list() {
-  let arr = require("C:/Users/jonst/projects/book_reader/src/app/data/alL_book_data.json");
-  let complete_scraped_book_list = require("C:/Users/jonst/projects/book_reader/src/app/data/complete_scraped_book_list.json");
+  let arr = path.join(process.cwd(), 'data', 'all_book_data.json'); 
+  let complete_scraped_book_list = path.join(process.cwd(), 'data', 'complete_scraped_book_list.json.json'); 
 
   let new_arr = arr.map((x) => {
     let check = complete_scraped_book_list.filter((y) => y.id == x.id);
@@ -396,9 +396,7 @@ async function add_count_to_book_list() {
     }
   });
 
-  const f = path.join(
-    "C:/Users/jonst/projects/book_reader/src/app/data/updated_all_book_data.json"
-  );
+  const f = path.join(process.cwd(), 'data', 'updated_all_book_data.json'); 
   await fsp.writeFile(f, JSON.stringify(new_arr)).then(() => {
     console.log("done ");
   });
