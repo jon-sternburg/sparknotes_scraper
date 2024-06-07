@@ -1,407 +1,407 @@
 [
-    {
-        "text": "Composites Design Guide",
-        "url_": "https://support.markforged.com/portal/s/article/Composites-Design-Guide-1",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Composites Facilities Guide",
-        "url_": "https://support.markforged.com/portal/s/article/Composites-Facilities-Guide",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Desktop Series Service Manual",
-        "url_": "https://support.markforged.com/portal/s/article/Desktop-Series-Service-Manual",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Desktop Series User Guide",
-        "url_": "https://support.markforged.com/portal/s/article/Desktop-Series-User-Guide",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Connect Your Desktop Printer",
-        "url_": "https://support.markforged.com/portal/s/article/Connect-Your-Desktop-Printer",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Create an Eiger Organization",
-        "url_": "https://support.markforged.com/portal/s/article/Create-an-Eiger-Organization",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Getting Started with Precise PLA",
-        "url_": "https://support.markforged.com/portal/s/article/P-PLA-Getting-Started",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Getting Started with Smooth TPU",
-        "url_": "https://support.markforged.com/portal/s/article/S-TPU-Getting-Started",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Preventive Maintenance Schedule (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Preventive-Maintenance-Schedule-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Quick Start Guide (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Quick-Start-Guide-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Unboxing and Setup (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Unboxing-and-Setup-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Faster Composite Printing",
-        "url_": "https://support.markforged.com/portal/s/article/Faster-Composite-Printing",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Important Plastic Information (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Important-Plastic-Information-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Level the Print Bed (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Level-the-Print-Bed-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Load Fiber (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Load-Fiber-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Load Plastic (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Load-Plastic-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Mid-Print Auto-Recovery",
-        "url_": "https://support.markforged.com/portal/s/article/Mid-Print-Auto-Recovery",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Prepare the Print Bed (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Prepare-the-Print-Bed-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Print a Part (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Print-a-Part-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Purge Rod Maintenance (P-PLA)",
-        "url_": "https://support.markforged.com/portal/s/article/Purge-Rod-Maintenance-P-PLA",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Remove Supports from Printed Parts (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Remove-Supports-from-Printed-Parts-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Safely Remove Printed Parts",
-        "url_": "https://support.markforged.com/portal/s/article/Safely-Remove-Printed-Parts-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Safety First (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Safety-First-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Smooth TPU Print Head Cleaning",
-        "url_": "https://support.markforged.com/portal/s/article/S-TPU-Print-Head-Cleaning",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Smooth TPU Pull Maintenance",
-        "url_": "https://support.markforged.com/portal/s/article/S-TPU-Pull-Maintenance",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Turbo Print (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Turbo-Print-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Unload Fiber (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Unload-Fiber-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Unload Plastic (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Unload-Plastic-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Update Firmware (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Update-Firmware-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Adjust Belt Tension (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Adjust-Belt-Tension-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "BeagleBone Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/BeagleBone-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Belt Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Belt-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Fiber Bowden Tube Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Fiber-Bowden-Tube-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Fiber Extruder Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Fiber-Extruder-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Fiber Feed Tube Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Fiber-Feed-Tube-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Fiber Nozzle Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Fiber-Nozzle-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Hotend Control Error Troubleshooting",
-        "url_": "https://support.markforged.com/portal/s/article/Hotend-Control-Error-Troubleshooting",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Maintenance Schedule Utility",
-        "url_": "https://support.markforged.com/portal/s/article/Maintenance-Schedule-Utility",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Motherboard Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Motherboard-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Plastic Bowden Tube Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Plastic-Bowden-Tube-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Plastic Extruder Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Plastic-Extruder-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Plastic Feed Tube Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Plastic-Feed-Tube-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Plastic Nozzle Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Plastic-Nozzle-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Print Head Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Print-Head-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Printer Visor Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Printer-Visor-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Replace Drybox Adapter (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Replace-Drybox-Adapter-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Replace Motion System Components (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Replace-Motion-System-Components-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Replace Z-Axis Lead Screw (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Replace-Z-Axis-Lead-Screw-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Ribbon Cable Replacement (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Ribbon-Cable-Replacement-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Adjust Fiber Nozzle Height (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Adjust-Fiber-Nozzle-Height-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Adjust the XY Offset (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Adjust-the-XY-Offset-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Adjust Z Offset (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Adjust-Z-Offset-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Advanced Networking Features",
-        "url_": "https://support.markforged.com/portal/s/article/Advanced-Networking-Features",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Bed Level Test Print (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Bed-Level-Test-Print-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Extrusion Flow Check",
-        "url_": "https://support.markforged.com/portal/s/article/Extrusion-Flow-Check",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Maintenance Schedule Utility",
-        "url_": "https://support.markforged.com/portal/s/article/Maintenance-Schedule-Utility",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Onyx Pillars Test Print (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Onyx-Pillars-Test-Print-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Reset Material Meters",
-        "url_": "https://support.markforged.com/portal/s/article/Reset-Material-Meters",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Test Motion and Rigidity",
-        "url_": "https://support.markforged.com/portal/s/article/Test-Motion-and-Rigidity",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Underextrusion Troubleshooting",
-        "url_": "https://support.markforged.com/portal/s/article/Underextrusion-Troubleshooting",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Wet Plastic Purge",
-        "url_": "https://support.markforged.com/portal/s/article/Wet-Plastic-Purge",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "A1095 and A3648 Plastic Extruders (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/A1095-and-A3648-Plastic-Extruders-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Auto-Pause and Material Metering",
-        "url_": "https://support.markforged.com/portal/s/article/Auto-Pause-and-Material-Metering",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Bed Adhesion and Part Warping (P-PLA)",
-        "url_": "https://support.markforged.com/portal/s/article/P-PLA-Bed-Adhesion-and-Part-Warping",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Change Device Access Key",
-        "url_": "https://support.markforged.com/portal/s/article/Change-Device-Access-Key",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Clearing the Bowden Tubes (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Clearing-the-Bowden-Tubes-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Dimensional Accuracy",
-        "url_": "https://support.markforged.com/portal/s/article/Dimensional-Accuracy",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Disable Wi-Fi Adapter (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Disable-Wi-Fi-Adapter-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Do I Have a Gen 1 or Gen 2 Printer?",
-        "url_": "https://support.markforged.com/portal/s/article/Gen-1-Gen-2-Printer-Model-Differences",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Extruder Jams (P-PLA)",
-        "url_": "https://support.markforged.com/portal/s/article/P-PLA-Extruder-Jams",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Fiber Jam Troubleshooting (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Fiber-Jam-Detection-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "First Layer Quality",
-        "url_": "https://support.markforged.com/portal/s/article/First-Layer-Quality",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Material Storage",
-        "url_": "https://support.markforged.com/portal/s/article/Material-Storage",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Network Connectivity Troubleshooting",
-        "url_": "https://support.markforged.com/portal/s/article/Network-Connectivity-Troubleshooting",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Offline Printing (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Offline-Printing-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Onyx Upgrade for Legacy Printers",
-        "url_": "https://support.markforged.com/portal/s/article/Onyx-Upgrade-for-Legacy-Printers",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Open Source Disclosure",
-        "url_": "https://support.markforged.com/portal/s/article/Open-Source-Disclosure",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Open Source Disclosure (Printers and Furnaces)",
-        "url_": "https://support.markforged.com/portal/s/article/Open-Source-Disclosure-Printers",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "P-PLA Compatibility",
-        "url_": "https://support.markforged.com/portal/s/article/P-PLA-Compatibility",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Packaging a Printer for Transportation (Desktop)",
-        "url_": "https://support.markforged.com/portal/s/article/Packaging-a-Printer-for-Shipment-Desktop",
-        "category": "Desktop Series"
-    },
-    {
-        "text": "Plastic Extrusion Issue Troubleshooting",
-        "url_": "https://support.markforged.com/portal/s/article/Plastic-Extrusion-Issue-Troubleshooting",
-        "category": "Desktop Series"
-    }
+   {
+      "text":"Composites Design Guide",
+      "url_":"https://support.markforged.com/portal/s/article/Composites-Design-Guide-1",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Composites Facilities Guide",
+      "url_":"https://support.markforged.com/portal/s/article/Composites-Facilities-Guide",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Desktop Series Service Manual",
+      "url_":"https://support.markforged.com/portal/s/article/Desktop-Series-Service-Manual",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Desktop Series User Guide",
+      "url_":"https://support.markforged.com/portal/s/article/Desktop-Series-User-Guide",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Connect Your Desktop Printer",
+      "url_":"https://support.markforged.com/portal/s/article/Connect-Your-Desktop-Printer",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Create an Eiger Organization",
+      "url_":"https://support.markforged.com/portal/s/article/Create-an-Eiger-Organization",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Getting Started with Precise PLA",
+      "url_":"https://support.markforged.com/portal/s/article/P-PLA-Getting-Started",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Getting Started with Smooth TPU",
+      "url_":"https://support.markforged.com/portal/s/article/S-TPU-Getting-Started",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Preventive Maintenance Schedule (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Preventive-Maintenance-Schedule-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Quick Start Guide (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Quick-Start-Guide-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Unboxing and Setup (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Unboxing-and-Setup-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Faster Composite Printing",
+      "url_":"https://support.markforged.com/portal/s/article/Faster-Composite-Printing",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Important Plastic Information (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Important-Plastic-Information-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Level the Print Bed (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Level-the-Print-Bed-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Load Fiber (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Load-Fiber-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Load Plastic (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Load-Plastic-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Mid-Print Auto-Recovery",
+      "url_":"https://support.markforged.com/portal/s/article/Mid-Print-Auto-Recovery",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Prepare the Print Bed (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Prepare-the-Print-Bed-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Print a Part (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Print-a-Part-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Purge Rod Maintenance (P-PLA)",
+      "url_":"https://support.markforged.com/portal/s/article/Purge-Rod-Maintenance-P-PLA",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Remove Supports from Printed Parts (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Remove-Supports-from-Printed-Parts-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Safely Remove Printed Parts",
+      "url_":"https://support.markforged.com/portal/s/article/Safely-Remove-Printed-Parts-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Safety First (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Safety-First-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Smooth TPU Print Head Cleaning",
+      "url_":"https://support.markforged.com/portal/s/article/S-TPU-Print-Head-Cleaning",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Smooth TPU Pull Maintenance",
+      "url_":"https://support.markforged.com/portal/s/article/S-TPU-Pull-Maintenance",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Turbo Print (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Turbo-Print-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Unload Fiber (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Unload-Fiber-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Unload Plastic (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Unload-Plastic-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Update Firmware (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Update-Firmware-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Adjust Belt Tension (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Adjust-Belt-Tension-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"BeagleBone Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/BeagleBone-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Belt Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Belt-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Fiber Bowden Tube Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Fiber-Bowden-Tube-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Fiber Extruder Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Fiber-Extruder-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Fiber Feed Tube Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Fiber-Feed-Tube-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Fiber Nozzle Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Fiber-Nozzle-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Hotend Control Error Troubleshooting",
+      "url_":"https://support.markforged.com/portal/s/article/Hotend-Control-Error-Troubleshooting",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Maintenance Schedule Utility",
+      "url_":"https://support.markforged.com/portal/s/article/Maintenance-Schedule-Utility",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Motherboard Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Motherboard-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Plastic Bowden Tube Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Plastic-Bowden-Tube-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Plastic Extruder Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Plastic-Extruder-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Plastic Feed Tube Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Plastic-Feed-Tube-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Plastic Nozzle Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Plastic-Nozzle-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Print Head Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Print-Head-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Printer Visor Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Printer-Visor-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Replace Drybox Adapter (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Replace-Drybox-Adapter-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Replace Motion System Components (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Replace-Motion-System-Components-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Replace Z-Axis Lead Screw (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Replace-Z-Axis-Lead-Screw-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Ribbon Cable Replacement (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Ribbon-Cable-Replacement-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Adjust Fiber Nozzle Height (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Adjust-Fiber-Nozzle-Height-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Adjust the XY Offset (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Adjust-the-XY-Offset-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Adjust Z Offset (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Adjust-Z-Offset-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Advanced Networking Features",
+      "url_":"https://support.markforged.com/portal/s/article/Advanced-Networking-Features",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Bed Level Test Print (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Bed-Level-Test-Print-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Extrusion Flow Check",
+      "url_":"https://support.markforged.com/portal/s/article/Extrusion-Flow-Check",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Maintenance Schedule Utility",
+      "url_":"https://support.markforged.com/portal/s/article/Maintenance-Schedule-Utility",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Onyx Pillars Test Print (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Onyx-Pillars-Test-Print-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Reset Material Meters",
+      "url_":"https://support.markforged.com/portal/s/article/Reset-Material-Meters",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Test Motion and Rigidity",
+      "url_":"https://support.markforged.com/portal/s/article/Test-Motion-and-Rigidity",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Underextrusion Troubleshooting",
+      "url_":"https://support.markforged.com/portal/s/article/Underextrusion-Troubleshooting",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Wet Plastic Purge",
+      "url_":"https://support.markforged.com/portal/s/article/Wet-Plastic-Purge",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"A1095 and A3648 Plastic Extruders (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/A1095-and-A3648-Plastic-Extruders-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Auto-Pause and Material Metering",
+      "url_":"https://support.markforged.com/portal/s/article/Auto-Pause-and-Material-Metering",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Bed Adhesion and Part Warping (P-PLA)",
+      "url_":"https://support.markforged.com/portal/s/article/P-PLA-Bed-Adhesion-and-Part-Warping",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Change Device Access Key",
+      "url_":"https://support.markforged.com/portal/s/article/Change-Device-Access-Key",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Clearing the Bowden Tubes (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Clearing-the-Bowden-Tubes-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Dimensional Accuracy",
+      "url_":"https://support.markforged.com/portal/s/article/Dimensional-Accuracy",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Disable Wi-Fi Adapter (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Disable-Wi-Fi-Adapter-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Do I Have a Gen 1 or Gen 2 Printer?",
+      "url_":"https://support.markforged.com/portal/s/article/Gen-1-Gen-2-Printer-Model-Differences",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Extruder Jams (P-PLA)",
+      "url_":"https://support.markforged.com/portal/s/article/P-PLA-Extruder-Jams",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Fiber Jam Troubleshooting (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Fiber-Jam-Detection-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"First Layer Quality",
+      "url_":"https://support.markforged.com/portal/s/article/First-Layer-Quality",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Material Storage",
+      "url_":"https://support.markforged.com/portal/s/article/Material-Storage",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Network Connectivity Troubleshooting",
+      "url_":"https://support.markforged.com/portal/s/article/Network-Connectivity-Troubleshooting",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Offline Printing (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Offline-Printing-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Onyx Upgrade for Legacy Printers",
+      "url_":"https://support.markforged.com/portal/s/article/Onyx-Upgrade-for-Legacy-Printers",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Open Source Disclosure",
+      "url_":"https://support.markforged.com/portal/s/article/Open-Source-Disclosure",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Open Source Disclosure (Printers and Furnaces)",
+      "url_":"https://support.markforged.com/portal/s/article/Open-Source-Disclosure-Printers",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"P-PLA Compatibility",
+      "url_":"https://support.markforged.com/portal/s/article/P-PLA-Compatibility",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Packaging a Printer for Transportation (Desktop)",
+      "url_":"https://support.markforged.com/portal/s/article/Packaging-a-Printer-for-Shipment-Desktop",
+      "category":"Desktop Series"
+   },
+   {
+      "text":"Plastic Extrusion Issue Troubleshooting",
+      "url_":"https://support.markforged.com/portal/s/article/Plastic-Extrusion-Issue-Troubleshooting",
+      "category":"Desktop Series"
+   }
 ]
